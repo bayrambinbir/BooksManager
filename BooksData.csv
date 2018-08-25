@@ -1,0 +1,1001 @@
+type,title,genre,author,price,rating,length,copiesAvailible,pages
+PaperbackBook,Adult Camp,Comedy,Persis Orts,54,5,413,8,39
+AudioBook,Teenage Mutant Ninja Turtles,Action|Adventure|Comedy,Krishnah McKeevers,54,1,819,7,2
+AudioBook,The Forbidden Room,Comedy|Drama|Mystery|Romance,Cam Rosenthaler,6,4,882,2,19
+AudioBook,Station  The (Blutgletscher),Horror,Pippa Grolmann,44,2,13,2,53
+AudioBook,Ruby Red,Adventure|Children|Fantasy|Sci-Fi,Josiah Silly,88,5,692,2,50
+PaperbackBook,Mesrine: Killer Instinct (L'instinct de mort),Action|Crime|Drama|Thriller,Moss Harcus,79,5,957,2,69
+AudioBook,Plan 9 from Outer Space,Horror|Sci-Fi,Ameline Frowd,12,1,232,1,68
+AudioBook,Last Command  The,Drama|War,Aveline Hailwood,44,3,65,9,11
+PaperbackBook,Ali,Drama,Brittan Olivella,9,1,362,2,98
+AudioBook,Mr. Turner,Drama,Garfield Duinkerk,45,1,112,6,73
+PaperbackBook,Under Ten Flags,Drama|War,Cyrillus Breffit,4,2,333,10,18
+AudioBook,Young Lieutenant  The (Le petit lieutenant),Crime|Drama,Beverlee Dunkerk,1,3,317,9,51
+PaperbackBook,'Til There Was You,Drama|Romance,Jesse Kopke,79,1,989,8,68
+PaperbackBook,Van Diemen's Land,Drama,Steffen Fransoni,87,1,521,9,90
+AudioBook,Menace II Society,Action|Crime|Drama,Timmi Alenshev,41,4,730,8,7
+PaperbackBook,Barefoot Contessa  The,Drama,Judith Nolton,76,3,275,8,21
+PaperbackBook,Smile,Comedy,Marlane Trulock,53,4,714,7,91
+AudioBook,Edge  The,Adventure|Drama,Olivie Forsdyke,27,4,859,8,36
+PaperbackBook,Bulletproof,Action|Comedy|Crime,Neils Eadington,62,4,794,4,19
+AudioBook,L: Change the World,Crime|Drama|Horror|Thriller,Ellary Lehrer,49,3,475,8,57
+PaperbackBook,Dickie Roberts: Former Child Star,Comedy,Nyssa Mulvany,80,4,756,3,58
+PaperbackBook,One Husband Too Many,Comedy|Romance,Noellyn Stannard,76,3,779,1,49
+AudioBook,Rockers,Comedy|Drama|Musical,Omar Vasilenko,69,1,831,6,18
+PaperbackBook,Rigoletto,Drama,Vanni Atkyns,25,4,834,10,80
+PaperbackBook,Fly Away (Bis zum Horizont  dann links!),Comedy,Celinda Levey,48,3,931,10,69
+AudioBook,Miracle Mile,Drama|Romance|Sci-Fi,Elspeth Larmouth,4,3,314,9,50
+PaperbackBook,Fast Food Nation,Drama,Sandy Scrange,63,5,609,8,21
+AudioBook,Looking for Richard,Documentary|Drama,Simeon Kelberer,8,2,55,6,56
+PaperbackBook,Raiders of the Lost Ark: The Adaptation,Action|Adventure|Thriller,Cathy Larrett,95,4,891,4,95
+AudioBook,Watch on the Rhine,Drama,Bonnee Neachell,52,3,757,5,36
+AudioBook,Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard),Animation|Children|Fantasy,Lucio Algeo,84,4,717,5,92
+AudioBook,Starship Invasions,Sci-Fi,Veradis Tunbridge,30,4,445,3,61
+PaperbackBook,Kingsman: The Secret Service,Action|Adventure|Comedy|Crime,Rollo McAmish,13,4,962,4,24
+AudioBook,Private Affairs of Bel Ami  The,Drama,Gnni Glide,36,4,643,8,78
+PaperbackBook,Extraordinary Measures,Drama,Wilbert Row,34,3,23,1,87
+PaperbackBook,Fantomas (Fantômas - À l'ombre de la guillotine),Crime|Drama,Sibby Yendall,71,1,242,8,28
+AudioBook,Sound of Fury  The,Crime|Drama|Film-Noir,Brenden Donaway,49,3,184,5,37
+PaperbackBook,The Blood of Fu Manchu,Adventure|Crime|Horror,Sheelagh Lewzey,56,3,674,5,10
+PaperbackBook,Dragon Inn (Sun lung moon hak chan),Action,Marabel Berisford,16,1,570,5,89
+PaperbackBook,Up the River,Comedy|Crime|Drama,Stanislaus Caldairou,1,2,726,10,63
+AudioBook,The Sea Chase,Action|Drama|War,Joline Stow,15,1,831,6,82
+PaperbackBook,Black Watch  The,Adventure|Drama,Gladi Gorvin,90,5,962,5,36
+PaperbackBook,Grin Without a Cat  A (Fond de l'air est rouge  Le),Documentary,Quintana Archbell,25,5,933,9,32
+AudioBook,Diamond Girl,Drama|Romance,Ofilia Sheers,9,1,881,5,58
+AudioBook,Quiet Ones  The,Horror,Fianna Humblestone,45,5,97,4,66
+AudioBook,Tumannost Andromedy,Adventure|Romance|Sci-Fi,Doralynn Pulley,50,5,231,2,7
+AudioBook,Treatment  The,Comedy|Drama|Romance,Augustine Tethcote,96,1,687,5,68
+AudioBook,Goddess  The,Drama,Cecil Bansal,53,4,444,10,39
+AudioBook,Lost in Thailand (Ren zai jiong tu zhi tai jiong),Adventure|Comedy|Drama,Charo Roe,2,3,905,10,89
+PaperbackBook,Close-Up (Nema-ye Nazdik),Drama,Cori Richarson,50,3,892,7,3
+AudioBook,One-Way Ticket to Mombasa (Menolippu Mombasaan),Comedy|Drama,Heidi Daingerfield,67,4,638,9,47
+PaperbackBook,Shotgun Stories,Drama|Thriller,Elfrieda Geaveny,49,2,83,10,3
+AudioBook,Prata Palomares,Horror|Thriller,Deb Bellefonte,77,3,615,9,9
+PaperbackBook,Blank Check,Children|Comedy,Shaina Lutman,6,2,831,5,79
+AudioBook,Vampire Apocalypse,Comedy|Horror,Cello Adlington,11,4,480,1,75
+AudioBook,Kamchatka,Drama,Bary Kersaw,3,5,810,4,54
+PaperbackBook,United,Comedy|Romance,Keir Savaage,27,3,541,9,4
+AudioBook,18 Again!,Comedy|Fantasy,Sabina Laible,38,2,515,7,12
+PaperbackBook,Catfish in Black Bean Sauce,Comedy|Drama,Marijo Bourgaize,37,1,614,10,10
+PaperbackBook,American Heist,Action,Kimbell Dunsire,14,3,547,8,80
+AudioBook,George and the Dragon,Action|Adventure|Children|Comedy|Fantasy,Ulrica Spikings,12,5,775,5,22
+PaperbackBook,Love Sick (Legaturi bolnavicioase),Drama,Briant Turville,4,4,403,7,89
+PaperbackBook,Forget Paris,Comedy|Romance,Palm Schiesterl,76,5,97,10,45
+AudioBook,Pawn Shop Chronicles,Action|Comedy,Blondy Croker,51,4,351,9,96
+PaperbackBook,Quiet Duel  The (Shizukanaru ketto),Drama,Honor Hargreves,43,5,316,2,81
+PaperbackBook,Mother Wore Tights,Musical,Dom Greggor,63,1,752,10,5
+AudioBook,The Last Diamond,Drama,Elvera Coupar,90,5,447,6,87
+AudioBook,City of Angels,Drama|Fantasy|Romance,Karoline Poundford,32,4,69,5,67
+AudioBook,Promise  The (La promesse),Drama,Carmencita Primarolo,96,3,295,8,27
+PaperbackBook,Mean Creek,Drama|Thriller,Faith Poulsum,74,5,518,9,7
+PaperbackBook,Wise Blood,Comedy|Drama,Amitie Ledekker,30,1,808,5,29
+AudioBook,Cabin in the Woods  The,Comedy|Horror|Sci-Fi|Thriller,Nikolas Benediktovich,28,1,428,5,12
+AudioBook,Bug,Drama|Horror|Thriller,Urbanus Capstack,26,1,122,6,94
+PaperbackBook,Assault on Precinct 13,Action|Crime|Drama|Thriller,Ellery Loughney,79,5,42,9,67
+PaperbackBook,Rio Rita,Comedy|Musical|Romance,Lise Giovanardi,82,5,766,3,88
+PaperbackBook,Ringu 0: Bâsudei,Drama|Horror|Thriller,Lowe Sparshott,57,1,453,9,14
+AudioBook,Castle Keep,Drama|War,Bertina Norker,35,5,755,9,68
+PaperbackBook,Midsummer Night's Sex Comedy  A,Comedy|Romance,Violette Biggen,19,2,969,1,12
+AudioBook,101 Dalmatians (One Hundred and One Dalmatians),Adventure|Animation|Children,Duncan Harte,61,3,851,1,100
+AudioBook,Renoir,Drama|Romance,Jeannine Braker,22,4,700,9,29
+AudioBook,Here Comes Peter Cottontail ,Animation|Children|Musical,Clovis MacWilliam,70,3,677,9,35
+AudioBook,They Drive by Night,Drama,Adolf Crookall,52,5,358,5,60
+PaperbackBook,Invisible Waves,Adventure|Crime|Drama,Carilyn Barens,47,4,673,6,81
+PaperbackBook,12 Years a Slave,Drama,Giuditta Adrienne,47,4,859,9,12
+PaperbackBook,Page Turner  The (Tourneuse de pages  La),Drama|Musical|Thriller,Cullie Epinay,65,1,184,6,94
+AudioBook,The Legend of Mor'du,Animation|Children,Rosamund Huddles,3,5,478,5,81
+PaperbackBook,Austenland,Comedy|Romance,Sioux Vost,20,5,170,5,83
+AudioBook,Hearts and Minds,Documentary|War,Rafaelia Kenlin,3,3,627,4,17
+AudioBook,Why Me?,Action|Adventure|Comedy|Crime,Aida Isson,58,3,572,10,76
+PaperbackBook,Deceivers  The,Adventure|Drama|Thriller,Moore Finessy,24,2,686,5,53
+AudioBook,Snake of June  A (Rokugatsu no hebi),Drama|Mystery,Rosamund Ackroyd,75,4,582,9,81
+AudioBook,Verdict  The,Crime|Drama|Film-Noir|Mystery|Thriller,Ruggiero Munnion,63,5,791,3,92
+PaperbackBook,Incredible Petrified World  The,Adventure|Sci-Fi,Annabelle McConnel,56,4,297,8,82
+PaperbackBook,Family Law (Derecho de familia),Comedy|Drama,Patricia Farlambe,96,3,612,3,79
+AudioBook,That Evening Sun,Drama,Valida Cowmeadow,94,1,184,1,8
+AudioBook,Accidental Spy  The (Dak miu mai shing),Action|Comedy|Thriller,Elwyn Kluge,17,2,264,1,96
+AudioBook,My Son John,Drama,Gussy Ruthen,51,1,347,2,22
+AudioBook,Spook Who Sat by the Door  The,Action|Crime|Drama,Jennilee Letteresse,44,5,536,7,91
+AudioBook,Nightmare on Elm Street 3: Dream Warriors  A,Horror|Thriller,Gwyn Tregunnah,31,1,274,6,78
+PaperbackBook,Ulysses,Drama,Kaylyn Carlyon,58,4,185,9,27
+AudioBook,Up Periscope,Action|Drama|War,Flossi Marling,70,4,923,7,46
+AudioBook,Lars and the Real Girl,Comedy|Drama,Findley Andriveau,48,5,742,1,69
+PaperbackBook,American Mullet,Documentary,Clemmie Notti,9,3,907,9,73
+PaperbackBook,Mass Appeal,Drama,Dorree Drewry,46,5,423,9,83
+AudioBook,Hard  Fast and Beautiful,Drama,Augustus Gingold,66,4,862,8,31
+PaperbackBook,First Love,Comedy|Musical,Lucinda Hutcheon,88,2,820,9,53
+AudioBook,Bio-Dome,Comedy,Clive Woodvine,82,5,196,10,56
+PaperbackBook,I Never Promised You a Rose Garden,Drama,Dillon Guirard,40,2,469,3,63
+PaperbackBook,Night in Heaven  A,Drama|Romance,Sophia Scurrell,55,5,981,7,2
+PaperbackBook,Stray Dog (Nora inu),Drama|Film-Noir|Thriller,Nichols Scurlock,40,2,473,1,75
+PaperbackBook,Underground Comedy Movie  The,Comedy,Riva Lehrian,80,3,130,7,75
+AudioBook,Jonathan Livingston Seagull,Drama,Deni Giriardelli,89,1,396,4,88
+AudioBook,Antoine and Colette (Antoine et Colette),Comedy|Drama,Joni Deeks,9,1,812,2,16
+PaperbackBook,Hard Ticket to Hawaii,Action|Comedy,Freda Anthoine,54,1,427,5,14
+AudioBook,Muppets Most Wanted,Adventure|Comedy|Crime,Beck Spurrier,25,3,981,2,63
+AudioBook,Puccini for Beginners,Comedy|Romance,Myrna Elderkin,28,4,741,3,63
+PaperbackBook,The Disappeared,Documentary,Don Leare,42,1,430,5,62
+PaperbackBook,True Romance,Crime|Thriller,Virgina Henighan,53,2,139,3,45
+PaperbackBook,Kevin Hart: Let Me Explain,Comedy|Documentary,Atlante Becket,76,1,206,8,73
+PaperbackBook,Foul Play,Comedy|Thriller,Pippo Haysman,89,2,225,10,45
+PaperbackBook,Take Shelter,Drama,Andre Snassell,8,2,982,8,13
+AudioBook,Withnail & I,Comedy,Marlane Kermath,1,2,328,10,16
+PaperbackBook,Where Is the Friend's Home? (Where Is My Friend's House?) (Khane-ye doust kodjast?),Drama,Maximilianus Watsam,32,3,133,6,15
+PaperbackBook,White Irish Drinkers,Drama,Nanete Conman,76,2,813,5,19
+AudioBook,Mother  I Love You,Drama,Clemmie Iannetti,72,2,597,5,6
+PaperbackBook,Entre nos (Between Us),Drama,Lauree Brandham,86,2,336,8,95
+PaperbackBook,Fires on the Plain (Nobi),Drama|War,Cristabel Bensley,12,5,326,8,55
+PaperbackBook,Best and the Brightest  The,Comedy,Olenka Brise,76,1,480,10,76
+PaperbackBook,Purgatory,Fantasy|Western,Christoforo Keningley,42,2,714,4,57
+AudioBook,Decampitated,Comedy|Horror,Carry Kinnoch,63,4,579,2,55
+PaperbackBook,Of Gods and Men (Des hommes et des dieux),Drama,Lee Clampe,17,5,534,2,69
+PaperbackBook,Omega Code  The,Action,Eddie Kissell,58,3,894,1,22
+PaperbackBook,Killing  The,Crime|Film-Noir,Llywellyn Crowne,52,3,246,5,74
+AudioBook,Prince of the Sun: The Great Adventure of Horus (Taiyou no ouji Horusu no daibouken),Animation|Fantasy,Lauree Kitcatt,89,5,72,1,33
+AudioBook,Singing Marine  The,Comedy|Musical|Romance,Russ Ximenez,71,2,246,1,92
+PaperbackBook,Inferno,Horror,Mira Spowart,41,3,726,9,48
+PaperbackBook,Six Weeks,Drama,Shay Izaks,96,1,118,2,40
+PaperbackBook,Genealogies of a Crime (Généalogies d'un crime),Crime|Drama,Kylynn Whetnell,85,3,88,10,11
+PaperbackBook,Last Ride,Drama,Greg Hatton,98,2,125,1,72
+AudioBook,Elevator Girl,Comedy|Romance,Vera Boughey,69,1,214,1,66
+AudioBook,Come Early Morning,Drama|Romance,Bartholemy Santore,99,2,440,3,98
+PaperbackBook,Just Imagine,Musical|Sci-Fi,Mersey Spellworth,68,5,202,9,57
+AudioBook,Mouchette,Drama,Merla Ollett,76,3,680,6,50
+PaperbackBook,Rains Came  The,Adventure|Drama|Romance,Dorothy Perott,58,1,581,2,79
+AudioBook,Crime Lords of Tokyo,Documentary,Renelle See,69,3,315,2,9
+PaperbackBook,Rapid Fire,Action|Crime|Thriller,Charmain Laslett,42,5,985,6,17
+AudioBook,Stille nacht,Crime|Mystery|Thriller,Abra Hoyer,40,2,173,3,45
+PaperbackBook,Father of the Bride Part II,Comedy,Shannen Kentish,46,3,933,4,26
+PaperbackBook,Midnight Man,Action|Drama|Thriller,Ami Licence,28,5,171,1,52
+PaperbackBook,Attila Marcel,Comedy|Drama,Nani Stansfield,42,4,122,1,41
+PaperbackBook,Heaven,Drama,Madelene Bicker,92,3,347,6,100
+PaperbackBook,Good Guys and the Bad Guys  The,Comedy|Western,Jilly Ede,24,2,359,2,70
+PaperbackBook,Marshal of Finland  The (Suomen Marsalkka),Drama|Romance,Roseanna Pipet,86,3,416,5,97
+AudioBook,Future Weather,Drama,Barth Fermer,36,4,219,2,30
+AudioBook,Blue Steel,Action|Thriller,Val Rhelton,27,1,513,7,28
+AudioBook,Secret Life of Walter Mitty  The,Comedy|Romance|Thriller,Justis Hirth,10,4,953,5,40
+PaperbackBook,Way We Were  The,Drama|Romance,Athene Watkiss,46,2,846,2,10
+PaperbackBook,Urban Legends: Final Cut,Horror,Gerhardine Schroeder,7,1,4,7,48
+PaperbackBook,Open Road  The,Comedy|Drama,Bernardina Robillart,87,2,366,1,9
+AudioBook,Profession of Arms  The (Il mestiere delle armi),Adventure|Drama|War,Wallie Hansmann,80,2,797,4,21
+AudioBook,Dark Woods (Villmark),Adventure|Horror|Mystery|Thriller,Baxie Guerriero,81,4,471,6,89
+PaperbackBook,Rentun Ruusu,(no genres listed),Jacqueline Tibbles,24,4,743,8,96
+AudioBook,Wolf of Wall Street  The,Comedy|Crime|Drama,Tonie Bickmore,5,1,923,6,37
+AudioBook,Hot Rods to Hell,Action|Drama|Thriller,Pincas Feltoe,89,3,404,6,63
+PaperbackBook,I Am Love (Io sono l'amore),Drama|Romance,Pauletta Gove,2,1,309,6,5
+PaperbackBook,Fandry,Children|Drama,Virge Pennyman,20,4,566,10,56
+PaperbackBook,Forbidden Christ  The (Cristo proibito  Il),Drama,Andras Dunk,99,2,656,6,96
+AudioBook,Spider Lilies (Ci qing),Drama|Romance,Philis Skeat,50,4,252,5,55
+AudioBook,Jungle Book  The,Animation|Children|Comedy|Musical,Talbot Masserel,69,2,911,7,48
+PaperbackBook,Girl He Left Behind  The,Comedy|Drama,Fergus O'Carroll,60,3,629,8,13
+AudioBook,Super Inframan  The (Zhong guo chao ren),Action|Fantasy|Sci-Fi,Caldwell Newall,46,4,674,7,18
+AudioBook,Silent Fall,Drama|Thriller,Tyler Vizard,12,5,700,6,71
+PaperbackBook,Cyclo (Xich lo),Crime|Drama,Reta Dahler,30,3,847,6,43
+PaperbackBook,Dante's Peak,Action|Thriller,Leanor Haglington,56,1,773,10,63
+PaperbackBook,Marquise of O  The (Marquise von O...  Die),Drama,Ronny Chiles,82,4,440,1,57
+PaperbackBook,Vampyr,Fantasy|Horror,Laverne Rowley,1,5,175,7,71
+AudioBook,Assault on Precinct 13,Action|Thriller,Jamill Venmore,14,2,268,8,81
+AudioBook,Kronos (a.k.a. Captain Kronos: Vampire Hunter),Horror,Corty Stainland,76,3,331,8,21
+AudioBook,Idiot  The (Hakuchi),Crime|Drama|Romance,Merrie MacAlpin,42,2,245,8,65
+PaperbackBook,Desert Fox  The,Drama|War,Francisco Coward,17,5,652,7,48
+PaperbackBook,Ice Age Columbus: Who Were the First Americans?,Documentary,Louis Scroyton,42,2,762,2,80
+AudioBook,Oki's Movie (Ok-hui-ui yeonghwa),Comedy|Drama,Ailsun Teanby,38,3,452,10,34
+AudioBook,Humoresque,Drama|Romance,Sylvia Defont,99,4,877,10,67
+PaperbackBook,Jim Jefferies: Alcoholocaust,Comedy,Olivette Lipprose,51,5,939,10,59
+AudioBook,Swing Vote,Comedy|Drama,Marlowe Breitler,61,1,569,8,68
+PaperbackBook,Terry Pratchett: Choosing to Die,Documentary,Anitra Shillabeare,54,1,752,5,41
+PaperbackBook,Planet Terror,Action|Horror|Sci-Fi,Alyse Iannazzi,83,4,792,10,43
+PaperbackBook,Janky Promoters  The,Comedy|Crime|Musical,Warner Feria,31,3,980,5,10
+AudioBook,Funny Lady,Comedy|Musical,Lynda Lillegard,70,3,755,2,29
+PaperbackBook,Polar Bear King  The (Kvitebjørn Kong Valemon),Adventure|Children|Fantasy,Nanon Dominguez,5,1,271,5,69
+PaperbackBook,Wuthering Heights,Drama,Addi Francello,100,2,668,3,100
+AudioBook,Sexual Dependency (Dependencia sexual),Drama,Lief Tondeur,41,3,977,3,92
+AudioBook,Taming of the Shrew  The,Comedy,Ellery Lowndesbrough,4,5,716,5,6
+AudioBook,Doomsday Prophecy,Action|Sci-Fi|Thriller,Vanni Pitrollo,76,4,493,1,8
+PaperbackBook,Liability  The,Action|Thriller,Kelci Baseley,75,2,17,6,7
+AudioBook,I Never Sang for My Father,Drama,Brandon Cardoso,42,1,788,10,96
+PaperbackBook,Endeavour,Crime|Drama|Mystery,Kanya Joddens,87,1,16,8,41
+AudioBook,13 Tzameti,Film-Noir|Thriller,Fleur Sargant,93,5,195,3,83
+AudioBook,Amazing Grace,Drama|Romance,Artemis Wallworke,57,3,807,3,57
+AudioBook,Woody Allen: A Documentary,Documentary,Mirabelle Keefe,25,2,636,2,67
+AudioBook,Titus,Drama,Udell Pikett,37,3,332,7,73
+AudioBook,Splinter,Action|Horror|Thriller,Rhys Haggis,56,1,846,5,82
+PaperbackBook,Not Reconciled (Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt herrscht),Drama,Lorens Warmisham,44,3,111,10,63
+AudioBook,It Rains in My Village (Bice skoro propast sveta),Drama,Ara Yannoni,21,1,212,10,9
+AudioBook,Terminal USA,Comedy,Leoine Sarll,42,3,721,2,25
+PaperbackBook,Top Secret!,Comedy,Mano Ghilardi,90,1,218,2,11
+PaperbackBook,Great Santini  The,Drama,Gustav Freathy,83,4,183,10,29
+AudioBook,Back to the Future Part II,Adventure|Comedy|Sci-Fi,Riki Canland,11,5,214,2,59
+PaperbackBook,Neo Ned,Drama|Romance,Theressa Ricardou,42,3,12,8,29
+AudioBook,View from the Top  A,Comedy|Romance,Simmonds Iacovelli,63,2,964,5,67
+PaperbackBook,Woman on the Beach  The,Drama|Film-Noir|Romance,Braden Wainscoat,1,4,270,2,67
+PaperbackBook,alaskaLand,Drama,Farris Ardley,4,4,203,2,13
+AudioBook,Hide and Seek,Horror|Mystery|Thriller,Sheeree Ranken,76,4,617,9,54
+PaperbackBook,Bullfighter  The (Matador),Comedy|Crime|Drama,Timoteo Rains,92,5,301,4,37
+PaperbackBook,Life is a Miracle (Zivot je cudo),Comedy|Drama|Musical|Romance|War,Vassili Beadell,24,4,49,1,39
+PaperbackBook,Othello,Drama|Romance,Kesley Duguid,32,1,63,3,11
+PaperbackBook,Celebration  The (Festen),Drama,Roobbie Southcomb,34,1,365,7,23
+PaperbackBook,Nothing Like the Holidays,Comedy|Drama|Romance,Jaquenette Doggerell,75,3,336,9,74
+PaperbackBook,Lassie,Adventure|Children,Yulma Dwelley,54,2,66,8,65
+AudioBook,Day the Earth Stood Still  The,Drama|Sci-Fi|Thriller|IMAX,Bernardo Rany,27,5,947,1,59
+AudioBook,Taistelu Näsilinnasta 1918,War,Wanids Elijah,77,5,299,10,98
+PaperbackBook,Forrest Gump,Comedy|Drama|Romance|War,Orsa Whether,45,5,953,5,27
+AudioBook,Medicine Man,Adventure|Romance,Elysha Boatwright,50,2,61,10,62
+PaperbackBook,Special Day  A (Giornata particolare  Una),Drama|War,Laurella Bleythin,77,5,462,9,77
+AudioBook,Relative Strangers,Comedy,Tybalt Bartoli,27,2,677,8,7
+PaperbackBook,Parineeta,Drama|Musical|Romance,Emalee Pley,90,1,997,5,17
+AudioBook,Fantomas (Fantômas - À l'ombre de la guillotine),Crime|Drama,Gwenette Handsheart,98,5,451,1,35
+PaperbackBook,Young Bess,Drama|Romance,Imelda Canelas,30,1,585,3,78
+PaperbackBook,Quiet Ones  The,Horror,Meredith Bourgaize,7,1,777,4,80
+AudioBook,Hour of the Gun,Western,Stacee Lelande,82,3,432,3,5
+AudioBook,American Reunion (American Pie 4),Comedy,Laurie Strickett,4,4,7,9,98
+PaperbackBook,Mouse on the Moon  The,Comedy,Zsazsa Bendik,13,1,520,7,46
+PaperbackBook,Tarzan's Greatest Adventure,Adventure,Clarette O'Crowley,89,2,125,1,72
+AudioBook,13th Letter  The,Film-Noir,Veriee Cusack,21,2,241,5,20
+AudioBook,Tree of Knowledge  The (Kundskabens træ),Drama,Garik Wasson,17,2,480,8,99
+PaperbackBook,Making 'Do the Right Thing',Documentary,Alvis Newhouse,76,3,282,7,83
+PaperbackBook,Boynton Beach Bereavement Club  The,Comedy|Drama,Flossi Skade,20,4,740,7,94
+AudioBook,Eden,Drama,Pippo Fireman,64,4,800,1,52
+PaperbackBook,Assassination,Action|Drama|Thriller,Jodie Ley,59,1,876,10,16
+AudioBook,Four Friends (a.k.a. Georgia's Friends),Drama,Ailee Chaloner,85,1,751,1,87
+PaperbackBook,Thin Blue Line  The,Documentary,Ophelia Jerzyk,30,4,408,7,66
+AudioBook,Comrade X,Comedy|Drama,Chester Tilby,17,5,815,7,73
+AudioBook,Green Lantern: Emerald Knights,Action|Adventure|Animation|Children,Quentin Manwell,84,3,778,9,54
+AudioBook,Flubber,Children|Comedy|Fantasy,Barris Parkey,16,1,867,4,68
+AudioBook,Private Romeo,Drama,Beckie Bayldon,39,3,10,8,1
+AudioBook,By Dawn's Early Light,Action|Drama|Thriller,Ursala Craske,46,4,424,10,17
+AudioBook,Eye of the Storm  The,Drama,Candice Dewire,37,2,459,6,92
+AudioBook,Jerry Maguire,Drama|Romance,Junina Einchcombe,51,4,741,8,54
+AudioBook,Sextette,Comedy|Musical|Romance,Maddie Medcraft,64,3,551,7,28
+PaperbackBook,Ayn Rand: A Sense of Life,Documentary,Artur MacLeod,89,5,504,2,77
+PaperbackBook,Amityville 1992: It's About Time,Horror,Noelle Greguoli,14,2,94,5,37
+AudioBook,Hercules in the Underworld,Action|Adventure|Fantasy|Sci-Fi,Lisabeth Roback,76,1,606,3,52
+PaperbackBook,Leaves from Satan's Book (Blade af Satans bog),Drama,Jereme Matschuk,6,1,783,1,35
+PaperbackBook,Betty,Drama,Tanny Dran,71,2,393,7,11
+AudioBook,Third World Cop,Action,Emanuel Butfield,32,2,824,6,77
+PaperbackBook,Relationship Status: It's Complicated,Comedy|Romance,Skipp Collet,55,1,15,9,30
+AudioBook,Mouchette,Drama,Odessa Klemensiewicz,53,2,813,5,98
+PaperbackBook,The Great Kidnapping,Action|Crime|Thriller,Leeann Redgate,9,4,338,4,53
+AudioBook,Flightplan,Action|Drama|Thriller,Gayler Catcherside,73,5,553,4,52
+AudioBook,Dances Sacred and Profane,Documentary,Meryl Linggard,96,1,977,2,17
+PaperbackBook,Two of a Kind,Comedy|Fantasy|Romance,Johna Kier,85,2,72,8,10
+PaperbackBook,Round Up  The (La Rafle),Drama|War,Cort Kynson,3,3,669,9,100
+AudioBook,Black Dynamite,Action|Comedy,Amelia Traynor,41,5,123,2,4
+AudioBook,Black Cat  The,Adventure|Crime|Horror|Thriller,Cobbie Ubee,68,1,283,4,31
+AudioBook,Getting to Know You,Comedy|Drama,Kristy Kohlerman,81,4,42,6,10
+PaperbackBook,Outrageous Fortune,Comedy|Mystery,Hodge Maxstead,39,1,326,8,45
+AudioBook,Liberty Stands Still,Action|Drama|Thriller,Amelia Cancelier,75,4,309,8,64
+AudioBook,Gatekeepers  The,Documentary,Mack Snawdon,38,5,374,6,64
+PaperbackBook,The Heart Machine,Drama|Thriller,Caddric Huxton,62,3,722,6,25
+AudioBook,Code  The (Mentale  La),Action|Crime|Thriller,Kristina Haffenden,59,5,396,2,7
+AudioBook,Detective Dee and the Mystery of the Phantom Flame (Di Renjie),Action|Crime|Mystery,Portia Domleo,95,5,844,2,47
+PaperbackBook,Reefer Madness: The Movie Musical,Comedy|Drama|Musical,Tony Tremelling,85,4,635,5,79
+AudioBook,Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono),Action|Adventure|Animation|Drama,Tyrus Klossmann,79,5,69,5,56
+PaperbackBook,These Girls,Comedy,Hildagarde Humburton,58,2,139,2,60
+PaperbackBook,Long Ride Home  The,Romance|Western,Elbertina Tewkesbury,94,3,735,2,84
+PaperbackBook,South  The (Sur),Drama,Claudius Lacroux,21,3,495,3,22
+PaperbackBook,Adelheid,Drama,Katuscha Fortune,82,4,446,5,51
+AudioBook,Bubble  The (Ha-Buah),Drama|Romance,Aeriell Harback,25,4,363,8,55
+PaperbackBook,Amour fou  L',Documentary,Jock Mahaddie,84,4,293,10,11
+PaperbackBook,July Rhapsody (Laam yan sei sap),Drama,Tania Kempe,62,2,70,3,17
+PaperbackBook,What a Way to Go!,Comedy|Musical|Romance,Anestassia Glenister,75,5,260,3,68
+AudioBook,Beyond Tomorrow (Beyond Christmas),Drama|Fantasy|Romance,Dukey Moxsom,5,4,1,5,99
+AudioBook,Born to Kill,Crime|Drama|Film-Noir,Jeri Brittian,85,1,832,9,31
+AudioBook,Sleuth,Drama|Mystery|Thriller,Sharona Inworth,25,5,704,9,97
+AudioBook,Last Call (Hoogste tijd),Drama,Brandy Fuchs,10,4,870,9,23
+AudioBook,Boudu Saved From Drowning (Boudu sauvé des eaux),Comedy,Goddard Wenman,12,1,239,2,57
+PaperbackBook,Nora's Will (Cinco días sin Nora),Comedy|Drama,Nelly Monson,33,1,541,7,92
+AudioBook,DMT: The Spirit Molecule,Documentary,Lona Muglestone,48,1,899,10,23
+AudioBook,Life of Emile Zola  The,Drama,Dionysus Duckhouse,66,2,684,4,94
+PaperbackBook,Men in Black III (M.III.B.) (M.I.B.³),Action|Comedy|Sci-Fi|IMAX,Rochell Sporton,73,5,232,9,30
+PaperbackBook,Two Days,Comedy|Drama|Thriller,Sharla Beckinsall,49,1,262,3,27
+PaperbackBook,Take  The,Crime|Drama,Teador Terrey,91,3,134,9,41
+PaperbackBook,My Bodyguard,Drama,Erinna Flavelle,100,5,484,10,18
+PaperbackBook,Death of a Nation - The Timor Conspiracy,Documentary,Cullin Escale,31,2,547,9,94
+PaperbackBook,Dick,Comedy,Marcelo Sheircliffe,97,1,804,8,43
+PaperbackBook,Beverly Hillbillies  The,Comedy,Kermie Seivwright,70,1,623,7,43
+AudioBook,Bay of Angels (La baie des anges),Drama|Romance,Drusy Engledow,10,2,527,9,42
+PaperbackBook,Sleepover,Drama,Robbi Stockley,4,5,775,7,89
+AudioBook,Counsellor at Law,Drama,Casandra Mariaud,32,4,765,1,87
+PaperbackBook,Adoration,Drama,Aurel Heartfield,59,1,25,5,4
+PaperbackBook,Caesar (Julius Caesar),Drama|War,Orsa Luberti,23,1,652,5,8
+PaperbackBook,Blankman,Comedy,Bren Batchelor,92,4,704,6,100
+AudioBook,What Alice Found,Crime|Drama,Tyler Langer,83,5,284,1,51
+PaperbackBook,Beauty of the Day (Belle de jour),Drama,Gray Shyre,77,5,563,6,90
+AudioBook,Carrington,Drama|Romance,Robers Le Barr,89,5,300,8,19
+PaperbackBook,Calcium Kid  The,Comedy,Mellicent Haukey,19,1,777,1,51
+AudioBook,Zatoichi and the Doomed Man (Zatôichi sakate giri) (Zatôichi 11),Action|Drama,Damian Stobbie,17,2,535,2,33
+AudioBook,Brightness (Yeelen),Fantasy,Randolf Morley,56,5,155,1,22
+AudioBook,King Solomon's Mines,Action|Adventure|Drama|Romance|Thriller,Giordano Mallabar,11,1,868,2,84
+PaperbackBook,World of Henry Orient  The,Comedy,Hildagarde Worham,47,4,178,6,58
+AudioBook,Django,Western,Syd Edinborough,21,4,530,5,58
+PaperbackBook,Flying Leathernecks  The,Action|Drama|War,Maggy Harman,75,5,122,3,52
+AudioBook,Crazy Mama,Action|Comedy,Donielle Jozefiak,15,2,243,1,7
+PaperbackBook,Rumble in Hong Kong (Nu jing cha) (Heroine  The),Action|Crime,Johna O' Concannon,90,1,632,6,97
+PaperbackBook,Hard Luck,Crime|Drama|Thriller,Felipa Sarch,22,2,389,2,44
+AudioBook,Few of Us,Drama,Carley Rubinivitz,50,3,835,6,71
+AudioBook,Spark: A Burning Man Story,Action|Documentary|Drama,Eric Hawton,52,3,257,10,89
+AudioBook,Passengers,Drama|Mystery|Thriller,Shoshanna Henri,12,3,589,6,50
+PaperbackBook,Real Fiction (Shilje sanghwang),Crime|Drama,Abigael Crosse,59,5,700,5,74
+AudioBook,Tales of Terror,Horror,Xenos Archbold,82,1,346,4,30
+PaperbackBook,King Solomon's Mines,Action|Adventure|Romance,Mohandas Fitzsymonds,83,4,284,8,20
+AudioBook,Loco Love (Mi Casa  Su Casa),Comedy,Allin Feige,66,3,899,10,20
+PaperbackBook,Phoebe in Wonderland,Drama|Fantasy,Odey Leveritt,87,2,585,5,82
+PaperbackBook,The Little Death,Comedy,Susan Peperell,51,2,114,6,90
+AudioBook,Walker,Adventure|Drama|War|Western,Jo-anne McMichell,43,3,559,7,16
+PaperbackBook,Sudden Fear,Film-Noir|Horror|Thriller,Kain Chapple,63,2,974,8,72
+AudioBook,Best Worst Movie,Documentary,Tonia Witton,33,2,108,9,3
+PaperbackBook,Trailer Park Boys: Live at the North Pole,Comedy,Marietta Fitt,28,4,422,8,90
+PaperbackBook,Separate Lies,Drama|Romance|Thriller,Sergei Olford,86,5,599,5,63
+AudioBook,Derailed,Action|Thriller,Dorolice Coxhell,59,4,559,10,87
+PaperbackBook,Missing William,Drama,Eleanora Mutter,9,1,278,6,30
+AudioBook,Mondo Hollywood,Documentary,Porter Granleese,72,3,456,5,88
+PaperbackBook,Stuart Saves His Family,Comedy,Eleen Paiton,62,4,910,2,31
+PaperbackBook,Jolson Story  The,Musical,Anatol Brimfield,17,1,541,2,89
+AudioBook,Life Less Ordinary  A,Romance|Thriller,Xerxes Pease,5,3,891,3,72
+AudioBook,Killing Bono,Comedy,Bo Ealden,64,1,377,8,67
+PaperbackBook,Twice-Told Tales,Horror|Mystery|Romance|Sci-Fi,Fremont Cockshtt,29,4,754,3,63
+AudioBook,The Hour of the Lynx,Drama|Thriller,Ernest Terbeck,2,1,523,9,19
+PaperbackBook,High School Hellcats,Crime|Drama,Quinn Berard,26,3,333,7,51
+AudioBook,Witch's Night Out,Animation|Children,Hulda Tolcharde,67,4,574,8,36
+AudioBook,Address Unknown (Suchwiin bulmyeong),Drama|War,Byrle Srawley,95,4,371,3,15
+PaperbackBook,Old Dogs,Comedy,Fitzgerald Dobson,67,5,139,3,82
+PaperbackBook,Miss Minoes,Children|Comedy|Fantasy,Antonella Simoneau,76,5,442,8,81
+PaperbackBook,Misérables  Les,Drama|Romance,Gabbie Tebbitt,90,1,849,1,19
+PaperbackBook,Bewitched (Alter Ego),Crime|Drama|Film-Noir|Thriller,Beret Yetton,82,2,861,10,4
+AudioBook,Blue Chips,Drama,Quincey Chessil,72,2,725,6,35
+PaperbackBook,True Confessions,Crime|Drama,Hillel Tunnoch,72,5,876,7,98
+AudioBook,Xtro 2: The Second Encounter,Horror|Sci-Fi,Tabbi Tatam,58,4,902,6,27
+PaperbackBook,Amreeka,Drama,Casey Hobson,66,1,351,10,100
+PaperbackBook,City Hunter (Sing si lip yan),Action|Comedy|Romance,Stephie Lemerle,84,2,614,7,28
+AudioBook,Rosewood Lane,Horror|Thriller,Demetris Goldston,8,4,250,10,21
+AudioBook,Cold Around the Heart,Crime|Drama|Thriller,Harwilll Longmore,41,2,901,3,38
+PaperbackBook,Chapter 27,Crime|Drama,Mike Greenland,29,2,1000,3,64
+AudioBook,Infidel  The,Comedy,Timotheus Matussov,80,2,162,9,62
+PaperbackBook,Albino Alligator,Crime|Thriller,Lammond Ledford,78,5,394,2,84
+PaperbackBook,Lure of the Sila,Drama,Billye Burnsides,28,3,577,3,26
+AudioBook,God Bless America,Comedy|Drama,Silvio Mount,99,2,685,1,31
+PaperbackBook,Waterloo Bridge,Drama|War,Benetta Worstall,6,5,331,9,17
+AudioBook,Beyond Silence (Jenseits der Stille),Drama,Clive Sands,38,1,941,3,55
+PaperbackBook,Metropolis,Drama|Sci-Fi,Danna Szymon,66,1,562,6,12
+PaperbackBook,L!fe Happens,Comedy,Levon Nuccii,52,2,972,4,96
+AudioBook,Margaret Cho: Assassin,Comedy,Amelita Balshaw,10,4,806,2,85
+AudioBook,Pretty Baby,Drama,Horton Wetwood,97,4,841,4,48
+AudioBook,Private Eyes  The,Comedy|Mystery,Shem Sheerin,24,2,332,1,13
+AudioBook,Boys & Girl from County Clare  The (a.k.a. The Boys from County Clare),Comedy|Musical|Romance,Eldridge Weatherburn,92,4,76,3,97
+AudioBook,Fistful of Dollars  A (Per un pugno di dollari),Action|Western,Urson Harrold,52,2,370,5,4
+AudioBook,Chicken with Plums (Poulet aux prunes),Drama,Miriam Branscomb,66,1,846,1,26
+AudioBook,Breaking the Girls ,Crime|Thriller,Lenee Sallis,19,5,880,6,29
+PaperbackBook,Bob's Birthday,(no genres listed),Neely Tappor,12,4,812,8,29
+AudioBook,The Message,Crime|Drama|Thriller|War,Maxwell O'Drought,86,3,39,9,81
+AudioBook,Meantime,Comedy|Drama,Emmit Lorie,53,4,981,9,72
+AudioBook,The Tattooist,Horror|Thriller,Micheal Fibben,19,2,992,8,19
+AudioBook,Cosas que nunca te dije (Things I Never Told You),Comedy|Drama|Romance,Daryl Gomersall,92,2,528,6,37
+AudioBook,Appointment in Tokyo,Documentary|War,Rafi Hynson,5,3,281,2,66
+AudioBook,White Lightning,Action|Crime|Drama,Banky Abendroth,33,1,284,4,96
+PaperbackBook,National Theatre Live: Frankenstein,Drama|Fantasy,Carine Bennit,24,1,489,10,3
+PaperbackBook,Chimpanzee,Documentary,Dena Tesmond,46,5,134,3,19
+AudioBook,Von Richthofen and Brown,Action|Drama|War,Celina Franz,83,5,43,1,83
+AudioBook,Tempest  The,Comedy|Drama|Fantasy,Viva Stanyon,22,3,58,8,10
+AudioBook,Teddy Bear (Mis),Comedy|Crime,Sauncho Rawstron,44,1,187,8,78
+PaperbackBook,Brightness (Yeelen),Fantasy,Elihu Parman,70,1,941,4,23
+PaperbackBook,Three Coins in the Fountain,Drama|Romance,Kamila Leteurtre,62,3,857,8,54
+PaperbackBook,His Regeneration,Western,Emmett Drife,1,5,333,6,53
+PaperbackBook,Black Cat  The,Adventure|Crime|Horror|Thriller,Odessa Fleeman,86,2,878,7,50
+AudioBook,Theatre of Blood,Comedy|Horror|Mystery,Amalle Coathup,84,5,428,10,43
+PaperbackBook,Tai-Pan,Adventure,Brena Ayshford,40,1,69,7,54
+PaperbackBook,Italianamerican,Documentary,Karrah Shortell,18,3,59,9,85
+PaperbackBook,Partners: The Movie II (Aibô: Gekijô-ban II),Drama,Morley Lycett,1,2,209,4,41
+PaperbackBook,Agent Cody Banks 2: Destination London,Action|Adventure|Children|Comedy,Stephie Downham,9,2,509,7,39
+AudioBook,Through the Olive Trees (Zire darakhatan zeyton),Drama,Jim Bergin,25,1,43,6,97
+AudioBook,Godzilla 2000 (Gojira ni-sen mireniamu),Action|Adventure|Sci-Fi,Pate Bertelsen,73,3,934,1,28
+AudioBook,Die  Monster  Die!,Horror|Mystery|Sci-Fi,Yvon Padbury,83,5,431,4,22
+PaperbackBook,10 minutes (10 minuta),Drama|War,Ashton Mingay,7,2,658,9,30
+PaperbackBook,Half Nelson,Drama,Jeanine Beller,31,4,625,9,85
+PaperbackBook,Phantom Lover  The (Ye ban ge sheng),Drama|Mystery|Romance,Alfie Gentric,45,5,28,1,90
+PaperbackBook,Thunderbolt and Lightfoot,Action,Anny Egginson,9,5,343,2,64
+PaperbackBook,Moll Flanders,Drama,Standford Witcomb,95,5,463,3,4
+PaperbackBook,Anniversary  The,Comedy|Drama|Horror|Thriller,Derick Grigs,36,5,64,5,28
+PaperbackBook,House Bunny  The,Comedy,Camile Petzolt,53,3,494,5,94
+AudioBook,Daisy,Drama|Romance,Antoinette Betjes,28,2,590,7,99
+PaperbackBook,Over the Top,Action|Drama,Rhiamon Exall,19,3,186,8,93
+PaperbackBook,Cross of Lorraine  The,Drama|War,Annabel Webber,74,4,211,7,57
+PaperbackBook,Pride of the Yankees  The,Drama,Chickie Vicent,2,1,874,2,24
+PaperbackBook,My Last Five Girlfriends,Comedy,Lanny Lindley,51,5,304,3,13
+AudioBook,For Ever Mozart,Drama,Roddy Toffolo,60,1,39,4,15
+PaperbackBook,Plymouth Adventure,Adventure|Drama|Romance,Gunner Rumble,50,3,576,2,36
+PaperbackBook,Hero: Love Story of a Spy  The,Action|Adventure|Drama|Musical|Romance|Thriller|War,Demetris Crystal,92,1,78,9,30
+PaperbackBook,Mean Guns,Action|Crime|Thriller,Benny Erik,100,2,518,6,55
+PaperbackBook,Commare secca  La (Grim Reaper  The),Drama|Mystery,Thibaud O'Hogertie,47,5,542,8,11
+PaperbackBook,Bleeding  The,Action|Horror,Vally Tayler,96,2,436,7,59
+AudioBook,Mother Knows Best,Crime|Thriller,Linnea Vanyashkin,5,4,631,6,35
+AudioBook,Memory,Drama|Horror|Thriller,Cindee Webland,52,5,906,5,62
+PaperbackBook,Cave  The,Action|Adventure|Horror|Mystery|Sci-Fi|Thriller,Burke Dulany,72,4,538,9,87
+AudioBook,Three Comrades,Drama,Caesar Absalom,19,5,263,3,91
+AudioBook,Sabretooth,Action|Adventure|Horror|Sci-Fi|Thriller,Haily Drewry,73,3,445,8,75
+AudioBook,All's Faire in Love,Comedy,Klaus Beardsley,39,4,597,8,90
+PaperbackBook,Regarding Henry,Drama,Malinde Russel,34,5,429,7,97
+PaperbackBook,Poolhall Junkies,Comedy|Drama|Thriller,Auroora Orneles,27,2,808,9,18
+AudioBook,Tale of Zatoichi  The (Zatôichi monogatari) (Zatôichi 1),Drama,Bernadina Kira,35,2,672,8,88
+AudioBook,Venice/Venice,Drama,Lester Huxham,9,5,956,3,60
+PaperbackBook,Pretty One  The,Comedy|Drama,Dannie Gergolet,48,3,596,10,29
+AudioBook,Return of Doctor X  The,Horror|Mystery|Sci-Fi|Thriller,Emmaline Melburg,43,1,605,5,49
+AudioBook,Moonrise Kingdom,Comedy|Drama|Romance,Gar Champness,55,5,878,3,78
+AudioBook,Newlyweds,Drama,Virgilio Jagson,42,4,841,4,18
+AudioBook,Remember My Name,Drama|Thriller,Meredithe Lyokhin,35,1,724,6,45
+PaperbackBook,Legend of Suram Fortress  The (Ambavi Suramis tsikhitsa) ,Drama,Minnnie Lune,90,5,684,10,91
+PaperbackBook,The Emperor of California,Western,Cornela Blann,96,1,242,6,76
+PaperbackBook,Escape from Fort Bravo,Western,Micah Gillam,15,5,159,8,63
+AudioBook,The Appointments of Dennis Jennings,Comedy,Cheri Jendrich,25,3,398,8,32
+AudioBook,Uninvited  The,Drama|Horror|Mystery|Thriller,Dagmar Ackrill,77,2,451,5,32
+PaperbackBook,Once You're Born You Can No Longer Hide (Quando sei nato non puoi più nasconderti),Adventure|Drama,Beryl Stampfer,77,3,744,5,25
+PaperbackBook,For the Love of Movies,Documentary,Merry Corby,84,5,48,8,34
+PaperbackBook,Gorky Park,Crime|Drama|Thriller,Lanie Stenhouse,90,2,309,10,36
+AudioBook,Dr. Jekyll and Mr. Hyde,Drama|Horror|Sci-Fi|Thriller,Kerwin Hrynczyk,42,5,888,2,4
+PaperbackBook,House of Bamboo,Crime|Film-Noir,Teodora Teasdale-Markie,38,3,861,9,73
+AudioBook,Wetherby,Drama,Fidole Drakeford,8,1,970,2,90
+AudioBook,Runaways  The,Drama|Musical,Caldwell Popescu,13,5,192,8,40
+PaperbackBook,Happiness,Comedy|Drama,Bridie Fontenot,94,1,363,6,66
+AudioBook,Wrath of the Titans,Action|Adventure|Fantasy|IMAX,Blondelle Knapman,94,1,791,2,78
+AudioBook,Ca$h,Crime|Thriller,Ferdy Pfeiffer,100,4,816,3,55
+AudioBook,Asylum,Horror|Thriller,Cordi Danaher,97,2,137,4,72
+PaperbackBook,Killing of Sister George  The,Drama,Jarvis Rehn,59,4,676,7,31
+AudioBook,Japanese Story,Drama,Mikael Hunnisett,95,2,245,1,82
+AudioBook,Octopussy,Action|Adventure|Thriller,Johnny Shillaker,96,3,426,2,48
+PaperbackBook,Just Like a Woman,Drama,Mace Joysey,29,4,293,10,27
+AudioBook,Dakota Skye,Drama|Romance,Marten Stigell,54,4,811,5,17
+PaperbackBook,What If ...,Drama,Delano Sherred,79,4,174,5,22
+PaperbackBook,Five Fingers,Drama|Thriller,Dulsea Patel,5,3,196,8,22
+PaperbackBook,Strong Man  The,Comedy,Katey Davern,77,3,20,5,96
+PaperbackBook,Swoon,Crime|Drama,Alie Beamson,14,5,494,9,83
+AudioBook,Librarian  The: The Curse of the Judas Chalice,Action|Adventure|Fantasy,Morgen Gillease,38,2,403,9,89
+AudioBook,Plankton,Horror,Ketti Caton,66,2,248,1,29
+PaperbackBook,Jean Renoir: Part One - From La Belle Époque to World War II,Documentary,Antonius Morcombe,92,4,380,10,6
+PaperbackBook,They Call Me Renegade,Action|Adventure|Comedy|Western,Maxine MacRitchie,15,2,563,3,85
+AudioBook,Incredible Burt Wonderstone  The,Comedy,Corina Elflain,98,5,707,10,68
+AudioBook,Late Marriage (Hatuna Meuheret),Comedy|Drama|Romance,Clywd Badrick,47,4,855,6,39
+AudioBook,Pooh's Grand Adventure: The Search for Christopher Robin,Adventure|Animation|Children|Musical,Franciskus Densie,85,5,894,3,52
+AudioBook,King of Fighters  The,Action|Sci-Fi,Rosie Tonkinson,53,4,790,1,67
+PaperbackBook,New York in the 50's,Documentary,Ferrell Luebbert,72,2,289,2,84
+AudioBook,County Teacher  The (Venkovský ucitel),Drama,Modestine Florey,40,1,226,5,91
+AudioBook,La montaña rusa,Comedy|Romance,Hans Deer,65,3,376,2,46
+AudioBook,Exodus: Gods and Kings,Action|Adventure|Drama,Aldis Garfirth,99,5,590,7,60
+AudioBook,Wing and a Prayer,Action|Drama|War,Freeland Macveigh,53,3,624,4,21
+PaperbackBook,Women  The,Comedy|Drama,Giulio Rubinowicz,19,5,270,9,26
+PaperbackBook,Stand  The,Adventure|Drama|Fantasy|Horror|Sci-Fi,Abra Vivash,48,5,916,7,15
+PaperbackBook,Third Miracle  The,Drama,Gwyn De Cruze,36,2,471,6,69
+AudioBook,Reluctant Fundamentalist  The,Drama,Kippie Langrick,81,5,247,9,2
+PaperbackBook,Meat the Truth,Documentary,Basilio Birkhead,34,5,505,6,98
+AudioBook,Snoopy Come Home,Animation|Children|Comedy|Musical,Madelon Slainey,44,2,97,8,36
+AudioBook,Jaws 2,Horror|Thriller,Pauly Muzzullo,22,5,364,5,29
+PaperbackBook,Dancing at the Blue Iguana,Drama,Petronilla Beccero,33,4,407,6,24
+PaperbackBook,Stage Fright,Horror|Musical,Glen Bruinsma,83,4,128,10,75
+PaperbackBook,Not Reconciled (Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt herrscht),Drama,Izabel Muneely,66,4,797,6,77
+PaperbackBook,Sick: The Life & Death of Bob Flanagan  Supermasochist,Documentary,Felice Impey,32,5,736,10,34
+PaperbackBook,Sokkotanssi,Comedy|Drama,Connor Gosnold,95,4,545,9,25
+AudioBook,The Count of Monte Cristo,Adventure|Drama|Romance,Simonette Ianno,39,4,8,3,9
+PaperbackBook,Misérables  Les,Drama|War,Daveen Beckett,95,4,823,6,93
+PaperbackBook,Happiness Is in the Field (Bonheur est dans le pré  Le),Comedy,Edee Tomasello,60,4,679,9,61
+AudioBook,Barfi!,Comedy|Drama|Romance,Alfi Whitehorn,14,3,299,7,98
+AudioBook,Mortal Storm  The,Drama,Corny Kirkup,14,4,345,4,48
+AudioBook,The Trap,Crime|Mystery|Thriller,Barnaby Stollwerk,15,3,571,9,16
+AudioBook,Swamp  The (Ciénaga  La),Comedy|Drama,Althea Glavias,46,3,281,2,67
+PaperbackBook,Rated X: A Journey Through Porn,Documentary,Morgan Temporal,90,3,997,9,70
+AudioBook,Dry White Season  A,Drama|Thriller,Larina Grewcock,75,5,274,3,8
+PaperbackBook,Alexandria... Why? (Iskanderija... lih?),Drama,Tulley Widocks,29,1,112,10,32
+PaperbackBook,Kaena: The Prophecy (Kaena: La prophétie),Action|Adventure|Animation|Children|Sci-Fi,Ysabel Jarnell,21,3,420,5,59
+PaperbackBook,Sexual Chronicles of a French Family (Chroniques sexuelles d'une famille d'aujourd'hui),Comedy|Drama,Aretha Whiteland,55,3,406,6,48
+AudioBook,Aces: Iron Eagle III,Action,Gaile Mockler,51,1,582,3,50
+PaperbackBook,Divine Secrets of the Ya-Ya Sisterhood,Comedy|Drama,Quinta Dundin,55,2,306,6,41
+AudioBook,Pure One (Pakeezah),Drama|Musical|Romance,Yuri McCrudden,82,4,383,7,96
+AudioBook,Brand Upon the Brain!,Adventure|Fantasy|Mystery,Estelle Tournay,95,1,749,5,87
+PaperbackBook,Submarine,Action|Drama,Pip Locarno,81,5,304,9,65
+PaperbackBook,Kickboxer 4: The Aggressor,Action|Thriller,Frasier Banbury,12,1,385,8,78
+AudioBook,Trouble at Timpetill (Enfants de Timpelbach  Les),Adventure|Children|Fantasy,Gabriellia Seaborne,74,3,699,6,1
+PaperbackBook,Falling (a.k.a. Fallen),Drama,Arabel Donovan,16,1,185,6,89
+AudioBook,Timecop,Action|Sci-Fi|Thriller,Deena Selburn,83,3,203,6,86
+AudioBook,L.A. Without a Map,Comedy|Drama|Romance,Abbot Deuss,18,4,551,5,25
+AudioBook,Tesla: Master of Lightning,Documentary,Rayshell Rhodef,13,5,233,9,82
+PaperbackBook,Dave,Comedy|Romance,Haskel Collister,17,1,616,9,65
+AudioBook,Battleship,Action|Sci-Fi|Thriller|IMAX,Agatha Vassman,48,3,218,7,80
+AudioBook,Border Café,Drama,Shirleen Wragg,68,3,560,8,33
+PaperbackBook,DNA,Action|Sci-Fi,Alica Yter,34,3,799,2,10
+PaperbackBook,Talk to Me,Drama,Anissa Taylour,44,1,160,1,75
+PaperbackBook,Railroaded!,Film-Noir,Abbi Mollin,33,5,711,3,42
+AudioBook,Baran,Adventure|Drama|Romance,Rosy Pavolini,84,4,582,1,86
+PaperbackBook,Deception,Action|Drama|Thriller,Ailene Dorrins,35,2,124,7,63
+PaperbackBook,Escort  The (Scorta  La),Crime|Thriller,Mychal Espinosa,8,5,638,6,17
+PaperbackBook,Grey  The,Action|Drama,Cleveland Tattoo,85,3,39,4,69
+AudioBook,Lucky Number Slevin,Crime|Drama|Mystery,Anders Klessmann,5,5,104,7,12
+AudioBook,Trouble at Timpetill (Enfants de Timpelbach  Les),Adventure|Children|Fantasy,Jenica Abba,98,1,510,8,95
+PaperbackBook,Twilight,Drama|Fantasy|Romance|Thriller,Vincenty Nucator,28,4,681,10,32
+AudioBook,Flicker (Flimmer),Comedy|Drama,Noelyn Oldfield,57,1,317,2,62
+PaperbackBook,Giant of Marathon  The (Battaglia di Maratona  La),Action|Drama|War,Eadie Jose,51,2,987,6,21
+PaperbackBook,Strange Color Of Your Body's Tears  The (L'étrange couleur des larmes de ton corps),Mystery|Thriller,Pamela Linggard,56,3,393,5,50
+PaperbackBook,Happy Times (Xingfu shiguang),Comedy|Drama,Darleen Nestle,65,4,287,9,71
+AudioBook,Civil Brand,Drama,Jobie Sapir,62,4,790,4,97
+PaperbackBook,Bajo la Sal (Under the Salt),Mystery|Thriller,Nari Landeg,19,2,804,8,39
+AudioBook,Bullet,Action|Crime|Drama,Catha Lantaph,2,5,737,9,24
+PaperbackBook,American Crime  An,Crime,Jobina Rendall,19,1,185,1,35
+AudioBook,Tell It to the Marines,Comedy|Drama|Romance|War,Kenn Sivell,77,2,849,2,36
+AudioBook,Quintet,Mystery|Sci-Fi,Benjamin Gostick,68,1,983,4,44
+PaperbackBook,Misfortunates  The (De helaasheid der dingen),Drama,Marlo Bramford,89,1,687,10,51
+PaperbackBook,Doug's 1st Movie,Animation|Children,Shannon Dollman,36,2,723,6,21
+AudioBook,A Walk in the Woods,Adventure|Comedy|Drama,Roma Littlechild,78,2,405,8,63
+AudioBook,Cinderella II: Dreams Come True,Animation|Children|Fantasy,Darci Ambrogio,59,3,803,6,3
+AudioBook,Silent Night  Deadly Night,Horror|Thriller,Ranna Couchman,78,2,716,1,17
+PaperbackBook,Cold Fever (Á köldum klaka),Comedy|Drama,Carce Batey,14,5,681,5,43
+PaperbackBook,Atomic Rulers of the World,Action|Sci-Fi,Maurise Mattessen,90,3,220,3,1
+AudioBook,In My Country (a.k.a. Country of My Skull),Drama,Denys Clay,71,1,36,8,22
+PaperbackBook,Boom!,Drama,Coop Clere,80,4,620,8,34
+PaperbackBook,Poolsite,Crime|Drama,Ashli Epsley,96,3,358,2,3
+AudioBook,Lady of Burlesque,Comedy|Mystery,Isaac Osbaldstone,83,3,467,2,33
+PaperbackBook,Nancy Goes to Rio,Comedy|Musical,Kissee Chittleburgh,90,3,532,10,79
+PaperbackBook,Bank  The,Thriller,Fedora Cough,16,2,628,8,5
+PaperbackBook,Adam and Dog,Animation,Dina Allitt,59,2,863,3,31
+PaperbackBook,10 Years,Comedy|Drama|Romance,Evan Creech,37,3,253,9,6
+AudioBook,Love  Honour and Obey,Comedy|Crime|Drama,Archibold Le Monnier,71,2,47,1,79
+PaperbackBook,Omagh,Drama,Karry Huttley,93,1,999,5,19
+AudioBook,Exodus (Cheut ai kup gei),Comedy|Crime|Drama,Carmella Huyge,30,1,849,4,78
+PaperbackBook,Nasty Old People,Drama,Nanni Rowler,21,5,33,5,98
+AudioBook,Delicate Art of Parking  The,Comedy,Alfonse Harvison,76,1,229,6,66
+AudioBook,Time Freak,Comedy|Sci-Fi,Godfrey Dowrey,57,4,766,2,75
+PaperbackBook,Rosetta,Drama,Deeann Kinnear,58,3,482,9,92
+PaperbackBook,Young Aphrodites (Mikres Afrodites),Drama|Romance,Zora Ashfold,60,5,890,3,47
+AudioBook,Exploding Girl  The,Drama,Gaye Ambrogio,26,4,553,8,12
+AudioBook,Hide in Plain Sight,Drama,Wenona Midden,8,4,914,5,65
+AudioBook,Crazy on the Outside,Comedy|Crime,Celina Mundie,98,3,409,1,90
+AudioBook,Panic,Drama,Adrea Oiseau,77,2,18,8,66
+PaperbackBook,Square Dance,Drama|Romance,Patsy Stockford,18,5,342,3,63
+PaperbackBook,Beneath the Dark,Drama|Mystery|Thriller,Edyth Stephens,5,5,341,8,42
+PaperbackBook,Wild Things: Diamonds in the Rough,Mystery|Thriller,Gwendolen Juste,42,3,387,7,33
+AudioBook,Delivery Man,Comedy,Julienne Brawn,57,4,368,8,44
+AudioBook,Women in Trouble,Comedy,Oren Popping,63,3,798,8,93
+PaperbackBook,Enchantment,Drama|Romance,Inglis Storrah,16,1,110,2,2
+AudioBook,Crocodile Dundee II,Action|Adventure|Comedy,Vonnie Brealey,82,1,250,9,77
+PaperbackBook,Live from Baghdad,Drama|War,Fan Deaton,10,1,880,10,88
+PaperbackBook,Italian Job  The,Action|Crime,Berky Aldrich,69,5,79,6,95
+AudioBook,Starflight: The Plane That Couldn't Land,Drama|Sci-Fi,Gustav Downie,24,1,705,2,52
+AudioBook,Perfect Day  A (Un giorno perfetto),Drama,Sarita O'Moylane,15,2,345,7,45
+PaperbackBook,Luna de Avellaneda,Drama|Romance,Phedra Gilstoun,52,2,375,6,52
+AudioBook,Mean Guns,Action|Crime|Thriller,Wolfgang Hedger,34,5,795,3,52
+PaperbackBook,Eye of the Tiger,Action,Ty Clyma,98,5,385,2,1
+AudioBook,Wildcats,Comedy,Carlie Krolle,49,2,803,10,22
+AudioBook,Bloodhounds of Broadway,Comedy|Drama,Zeb Seide,58,3,94,2,78
+PaperbackBook,Statue of Liberty  The,Documentary,Burlie Dawe,36,3,190,1,37
+PaperbackBook,Two Rabbits (2 Coelhos),Action,Loleta Porteous,41,4,537,2,87
+PaperbackBook,MC5*: A True Testimonial,Documentary,Maritsa Wackley,51,1,106,2,72
+PaperbackBook,Justin Bieber: Never Say Never,Documentary,Elena Whilder,58,4,562,10,24
+PaperbackBook,Priest,Action|Horror|Sci-Fi|Thriller,Marjory Toderbrugge,87,5,979,3,73
+AudioBook,Apart from You (After Our Separation) (Kimi to wakarete),Drama,Goober Ailmer,87,1,896,10,66
+AudioBook,Black Legion,Crime|Drama,Gerome Rodrigo,88,4,185,5,57
+AudioBook,The Butterfly Effect 2,Adventure|Drama|Romance|Sci-Fi|Thriller,Willie McGeachey,65,2,411,6,98
+AudioBook,Caught,Drama|Thriller,Clementia Gronous,82,4,764,1,53
+PaperbackBook,Petits Freres (Petits Frères),Drama,Jamison Demschke,80,4,374,4,26
+PaperbackBook,Abominable Snowman  The (Abominable Snowman of the Himalayas  The),Horror|Sci-Fi,Carmela Samwell,73,5,26,4,40
+AudioBook,Killer McCoy,Drama,Gradeigh Dukesbury,33,5,871,5,56
+PaperbackBook,A.C.O.D.,Comedy,Sutherlan Adolf,40,2,662,7,3
+AudioBook,Impy's Island,Animation|Children|Fantasy,Juanita McFetrich,56,2,509,2,12
+AudioBook,Norwegian Ninja,Action|Comedy,Joella Lamperti,18,5,480,7,46
+AudioBook,The Roots of Heaven,Adventure|Drama,Harrietta Moan,20,3,28,2,97
+PaperbackBook,Bad Girl Island (Sirens of Eleuthera) (Sirens of the Caribbean),Mystery|Sci-Fi,Pepita Brunotti,17,2,969,8,62
+AudioBook,Forgive Me,Comedy,Quintus Edelheid,29,2,865,9,92
+AudioBook,Roller Boogie,Drama,Lay Caramuscia,73,3,343,6,69
+AudioBook,Pride,Comedy|Drama,Judah Tomczykowski,79,4,430,1,28
+AudioBook,Heathers,Comedy,Omero Hyde-Chambers,2,4,115,5,76
+AudioBook,Onmyoji (Onmyoji: The Yin Yang Master),Action|Drama|Fantasy|Horror,Anne-marie Kimmings,47,4,997,7,33
+PaperbackBook,Intolerance: Love's Struggle Throughout the Ages,Drama,Cob Solly,80,1,459,8,68
+PaperbackBook,Best Man  The (Testimone dello sposo  Il),Comedy|Drama|Romance,Lalo Willavize,86,4,826,6,37
+AudioBook,Bombshell,Comedy|Drama|Romance,Haslett Brightey,55,1,721,2,7
+AudioBook,Lentsu,Comedy,Logan Addenbrooke,54,2,184,8,72
+PaperbackBook,Highway 61,Comedy,Janeva Castellanos,6,2,895,5,68
+AudioBook,Ladrón que roba a ladrón,Action|Adventure|Comedy|Crime,Twila Severn,47,3,986,6,19
+PaperbackBook,Fast Five (Fast and the Furious 5  The),Action|Crime|Drama|Thriller|IMAX,Marice Timby,38,5,23,2,58
+AudioBook,Never a Dull Moment,Children|Comedy|Crime,Bartlet Britee,64,3,67,5,60
+AudioBook,Open Season 3,Animation|Children|Comedy,Audrie Hourahan,87,5,134,3,40
+AudioBook,When a Woman Ascends the Stairs (Onna ga kaidan wo agaru toki),Drama,Itch Lindsay,85,2,405,8,21
+AudioBook,Sound of Thunder  A,Action|Adventure|Drama|Sci-Fi|Thriller,Blythe Pipping,53,3,381,7,15
+AudioBook,Dangerous Minds,Drama,Roland Baskeyfield,14,4,793,6,43
+PaperbackBook,Au revoir les enfants,Drama,Peadar Cloute,84,2,732,1,85
+AudioBook,Stories of Lost Souls,Comedy|Drama|Thriller,Shoshana Curro,96,4,128,7,37
+PaperbackBook,Bootmen,Comedy|Drama,Cosetta Yann,71,5,431,5,95
+AudioBook,Wyatt Earp,Western,Peta Arnold,46,2,459,8,22
+PaperbackBook,Appointment with Death,Crime|Mystery,Paxton MacAllaster,46,2,563,2,45
+AudioBook,Bandaged,Thriller,Ber Roggeman,69,1,836,7,33
+AudioBook,Diamond Men,Drama,Darrick Licciardiello,66,1,513,5,58
+PaperbackBook,Juror  The,Drama|Thriller,Teddi Orgill,8,2,755,8,41
+AudioBook,Shallow Grave,Comedy|Drama|Thriller,Sven Crosswaite,9,2,742,4,2
+AudioBook,Compliance,Drama|Thriller,Deeann Sheardown,50,4,319,1,79
+PaperbackBook,Blutzbrüdaz,Comedy,Herschel Ovenell,48,1,481,2,20
+PaperbackBook,Return to Oz,Adventure|Children|Fantasy,Ozzie Salvadore,14,4,748,4,96
+AudioBook,The Front,Crime|Drama|Mystery,Fitz Muzzillo,67,5,18,4,25
+AudioBook,Ghost Ship,Horror,Tybi Conquer,75,5,12,10,1
+AudioBook,First Men in the Moon,Adventure|Sci-Fi,Powell Rominov,72,3,595,8,61
+PaperbackBook,Smiles of a Summer Night (Sommarnattens leende),Comedy|Romance,Minerva Walbrook,51,5,631,1,72
+AudioBook,Inserts,Comedy|Drama,Gus Lount,10,2,538,7,73
+PaperbackBook,Surf Nazis Must Die,Action|Comedy|Drama|Horror,Babs Kitchenham,77,5,99,2,67
+PaperbackBook,Silent Light (Stellet licht),Drama,Robers Comber,11,1,429,7,100
+PaperbackBook,Addams Family Values,Children|Comedy|Fantasy,Janifer Kyrkeman,50,5,358,2,27
+AudioBook,Maid in Manhattan,Comedy|Romance,Suzi Budnik,57,2,641,10,33
+AudioBook,Belly 2: Millionaire Boyz Club,Drama,Jenifer Oen,28,3,171,4,80
+AudioBook,Destroy All Monsters (Kaijû sôshingeki),Action|Sci-Fi|Thriller,Darb Pykett,93,1,655,7,18
+PaperbackBook,Pennies from Heaven,Comedy|Drama|Musical,Tracy Youel,28,2,370,10,18
+PaperbackBook,Homecoming,Drama|Thriller,Farlie Djokovic,12,4,903,9,62
+PaperbackBook,Starfighters  The,Drama,Marten Dobrovolski,21,2,523,7,58
+AudioBook,Highwaymen,Action|Crime|Thriller,Alica Vokes,27,5,350,9,8
+AudioBook,Man in the Wilderness,Adventure|Western,Joline Battams,87,2,709,9,38
+PaperbackBook,Dreams (Kvinnodröm),Drama,Gussy Pursglove,30,3,282,4,43
+AudioBook,Puppet Master III: Toulon's Revenge,Horror|Sci-Fi|Thriller,Maye Vardie,67,2,543,9,13
+PaperbackBook,Presto,Animation|Children|Comedy|Fantasy,Aggie Boobier,84,1,872,7,1
+AudioBook,Silence Before Bach  The (Die Stille vor Bach) ,Musical,Lodovico Laffranconi,35,2,890,4,24
+AudioBook,Dolls and Angels,Drama,Taddeusz Hamshere,13,3,259,9,21
+PaperbackBook,White Lightning,Action|Crime|Drama,Rupert Mielnik,93,3,772,9,62
+PaperbackBook,Foster Brothers  The (Süt kardesler),Comedy,Garvy Caizley,7,5,748,7,65
+AudioBook,Adventures of Sebastian Cole  The,Comedy|Drama,Caitlin MacGregor,91,2,97,5,69
+AudioBook,Counterfeiters  The (Le cave se rebiffe),Comedy,Garrek Mowday,70,4,952,5,71
+AudioBook,Monkey Shines,Horror|Sci-Fi,Ernestus Firebrace,27,1,697,5,50
+PaperbackBook,Europa (Zentropa),Drama|Thriller,Fredek Emerine,27,4,37,6,60
+AudioBook,Date with Judy  A,Comedy|Musical|Romance,Jarid Fritchly,29,2,252,2,100
+PaperbackBook,Eminem AKA ,Documentary,Manfred Sherrott,35,2,372,7,8
+AudioBook,Girls Can't Swim (Filles ne savent pas nager  Les),Drama,Laurie Toler,15,2,231,3,47
+AudioBook,Bombshell,Comedy|Drama|Romance,Koralle Lorence,28,2,961,8,7
+AudioBook,Death Ship,Horror,Doug Soughton,6,3,976,7,3
+AudioBook,Background to Danger,Drama|Thriller|War,Freedman McKall,99,4,955,10,52
+PaperbackBook,Star Maker  The (Uomo delle stelle  L'),Drama,Anna-diana Woodyeare,82,3,29,3,11
+AudioBook,Justin Bieber: Never Say Never,Documentary,Kata Duckels,8,3,579,4,65
+PaperbackBook,Occupants  The,Thriller,Cass Wardhough,40,2,881,10,75
+PaperbackBook,Never Talk to Strangers,Crime|Drama|Romance|Thriller,Tamar Ponceford,65,5,429,3,26
+AudioBook,Mesmerist  The,Comedy|Fantasy|Horror,Fernanda Neiland,73,2,797,4,45
+AudioBook,Coup de grâce (Der Fangschuß),Drama|War,Gayler Kearton,74,2,834,8,45
+PaperbackBook,Ice Age: Dawn of the Dinosaurs,Action|Adventure|Animation|Children|Comedy|Romance,Terrence Risbridge,86,3,411,8,100
+PaperbackBook,Sniper: Reloaded ,Action|Drama|Thriller|War,Arlin Dietzler,63,4,368,4,44
+AudioBook,Versus,Action|Comedy|Fantasy|Horror,Ardis Pringley,47,2,648,5,10
+PaperbackBook,Chorus Line  A,Comedy|Drama|Musical,Patsy Kedie,64,5,983,2,11
+AudioBook,12 Rounds 2: Reloaded,Action|Adventure|Thriller,Randie Godsafe,14,5,185,9,71
+AudioBook,Electronic Labyrinth THX 1138 4EB,Sci-Fi,Phillie Issard,25,2,329,7,65
+PaperbackBook,Hester Street,Drama,Titus Websdale,50,1,288,7,51
+AudioBook,Candyman,Horror|Thriller,Brina Curthoys,95,1,432,10,2
+AudioBook,Babette Goes to War,Comedy|War,Gregorius Hathorn,73,1,173,5,30
+AudioBook,Saps at Sea,Comedy,Clem Joselevitch,49,5,938,8,15
+AudioBook,Saturday Night,Documentary,Cash O'Donohue,99,1,103,7,29
+AudioBook,I Saw Mommy Kissing Santa Claus,Children|Comedy,Derrick Cottem,15,4,617,9,55
+AudioBook,Show People,Comedy|Romance,Wiley Brawn,12,1,430,3,75
+AudioBook,Charlie Chan in the Secret Service,Comedy|Crime|Mystery,Henderson Shotboulte,63,5,638,4,89
+AudioBook,Four Men and a Prayer,Adventure|Mystery,Culver Egerton,95,1,103,10,83
+AudioBook,Corto Maltese: Ballad of the Salt Sea (Corto Maltese - La ballade de la mer salée),Animation,Jessamine Dewing,7,3,55,6,43
+PaperbackBook,Flying Scotsman  The,Drama,Calypso Danell,66,1,900,6,61
+AudioBook,The Message,Crime|Drama|Thriller|War,Vite Bratch,96,5,919,5,65
+PaperbackBook,Divorce  Le,Comedy|Drama|Romance,Beltran Stamper,48,4,19,7,1
+PaperbackBook,Sadie Thompson,Drama,Stanford Eate,17,2,544,5,93
+AudioBook,Pianist  The,Drama|War,Jaimie Smythe,4,5,866,8,55
+PaperbackBook,Goodbye  Dragon Inn (Bu san),Comedy|Drama,Mata Wimms,63,2,399,7,86
+PaperbackBook,Horrible Dr. Hichcock  The,Horror,Odie Rooney,64,2,166,9,5
+PaperbackBook,Tall Guy  The,Comedy|Romance,Neel Rennix,85,1,894,5,24
+AudioBook,Jeremiah Johnson,Western,Mauricio Annies,66,4,964,6,51
+AudioBook,Destination Moon,Sci-Fi,Fulton Winwright,71,2,370,10,17
+AudioBook,First $20 Million Is Always the Hardest  The,Comedy,Barnabas Bratcher,34,4,107,10,75
+PaperbackBook,Spies Like Us,Comedy,Yasmin covino,4,2,134,8,12
+AudioBook,On Deadly Ground,Action|Adventure|Thriller,Mylo Du Hamel,2,4,691,1,89
+AudioBook,Harry in Your Pocket,Comedy|Crime|Drama,Gabbi Rainsden,57,1,844,9,65
+AudioBook,Blackrock,Drama|Thriller,Eben Macci,53,1,965,1,66
+PaperbackBook,Monuments Men  The,Action|Drama|War,Bord Jenkin,6,2,805,2,78
+AudioBook,Last Hurrah  The,Drama,Guendolen Rannells,92,5,965,10,17
+PaperbackBook,Malèna,Drama|Romance|War,Dunn Stimpson,93,1,212,6,34
+PaperbackBook,Revenge of the Nerds,Comedy,Fredi Gradly,31,5,52,4,13
+PaperbackBook,Adventures of Arsène Lupin  The (Aventures d'Arsène Lupin  Les),Crime|Mystery,Lin Yanin,27,3,340,3,87
+AudioBook,Calamari Union,Comedy,Skylar Parkman,86,2,191,4,91
+PaperbackBook,Stuck,Horror|Thriller,Marillin Worsnap,52,2,929,10,28
+AudioBook,Four Flies on Grey Velvet,Horror|Mystery|Thriller,Courtnay Aukland,91,4,439,6,23
+AudioBook,Congo,Action|Adventure|Mystery|Sci-Fi,Nikki McAughtry,12,4,547,9,13
+PaperbackBook,Come and See (Idi i smotri),Drama|War,Nev McAlees,34,3,965,2,88
+AudioBook,Saint (Sint),Horror,Tynan Gerwood,31,5,207,6,3
+AudioBook,Atlantic City,Crime|Drama|Romance,Georgina Leng,15,1,932,4,12
+PaperbackBook,Calculator,Sci-Fi,Jeana Le Sarr,84,4,671,9,50
+PaperbackBook,Clone (Womb),Drama|Romance|Sci-Fi,Carver Pellamont,45,4,465,6,72
+PaperbackBook,Redemption of General Butt Naked  The,Documentary|Drama,Gianna Durrans,29,4,953,2,13
+PaperbackBook,Hitchcock,Drama,Yoshi Nockles,70,1,990,8,60
+PaperbackBook,Nobody Knows Anybody (Nadie conoce a nadie),Romance|Thriller,Guenna Outright,32,4,862,9,89
+AudioBook,Call  The,Drama|Thriller,Celestina Westwell,80,1,910,8,57
+PaperbackBook,Grayeagle,Adventure|Drama|Romance|Western,Sonja McNeilly,61,1,605,10,53
+AudioBook,Renaissance,Action|Animation|Film-Noir|Sci-Fi|Thriller,Alyda Goodspeed,54,4,173,8,80
+PaperbackBook,Madame Bovary,Drama,Lynnette Simak,8,5,717,8,74
+PaperbackBook,Who's Harry Crumb?,Comedy|Mystery,Inesita Coonan,54,4,733,8,29
+PaperbackBook,Malone,Action|Drama|Thriller,Briant Fewster,25,2,760,4,67
+PaperbackBook,Raising Arizona,Comedy,Ibrahim Pellamont,15,1,765,10,58
+PaperbackBook,Joker,Comedy,Catharine Easdon,30,2,706,8,100
+PaperbackBook,Kiss Me Again,Drama|Romance,Maynord Baudacci,91,3,940,10,72
+PaperbackBook,Key  The,Drama,Irene Dooley,78,3,518,6,50
+PaperbackBook,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Action|Children|Fantasy,Val Seers,66,1,479,6,61
+PaperbackBook,Titicut Follies,Documentary|Drama,Datha Kimbrey,75,1,47,6,63
+PaperbackBook,Wicked,Thriller,Peggi Epsley,6,3,414,5,28
+PaperbackBook,Guide to Recognizing Your Saints  A,Crime|Drama,Andre Alvarez,44,4,92,8,8
+PaperbackBook,Pulse,Action|Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller,Gabbey Brithman,12,2,224,3,47
+PaperbackBook,DEFCON: The Documentary,Documentary,Aubert Bew,71,2,137,6,61
+PaperbackBook,Temptations  The,Drama|Musical,Bryan Venditti,27,1,505,10,5
+AudioBook,Judge and the Assassin  The (Juge et l'assassin  Le),Crime|Drama,Ivie Criag,42,5,913,3,100
+PaperbackBook,Greatest Game Ever Played  The,Drama,Arlan Symper,20,1,558,4,36
+PaperbackBook,Somm,Documentary,Rinaldo Coolican,53,5,56,7,50
+PaperbackBook,Unsaid  The,Crime|Drama|Mystery,Jaimie Pulford,17,2,773,4,26
+PaperbackBook,Octane,Horror|Thriller,Antons Giraldon,82,4,308,10,54
+PaperbackBook,Babyfever,Comedy|Drama,Hardy Horbart,15,1,723,6,37
+PaperbackBook,Black Swan,Drama|Thriller,Quintilla Donat,71,3,129,8,29
+PaperbackBook,Above the Street  Below the Water (Over gaden under vandet),Drama,Mackenzie Simkin,78,3,869,10,84
+AudioBook,Dead  The,Drama,Shelby Scannell,29,1,596,3,22
+AudioBook,Cameraman: The Life and Work of Jack Cardiff,Documentary,Eloise Craydon,86,4,345,10,4
+AudioBook,Going the Distance,Comedy,Munmro Shear,39,4,432,8,37
+AudioBook,The Land Before Time IV: Journey Through the Mists,Adventure|Animation|Children,Jami Beany,11,3,740,2,86
+PaperbackBook,Palookaville,Action|Comedy|Drama,Nonna Cohane,27,4,908,6,30
+AudioBook,Oil  the Baby and the Transylvanians  The (Pruncul  petrolul si Ardelenii),Comedy|Western,Ervin Huetson,72,4,437,5,64
+PaperbackBook,Luke and Lucy: The Texas Rangers (Suske en Wiske: De Texas rakkers),Adventure|Animation|Comedy|Western,Amelita O'Scully,92,2,486,10,99
+AudioBook,Freeze Frame,Crime|Drama|Thriller,Glenn Cheesman,46,1,411,2,42
+AudioBook,Strange Bedfellows,Comedy,Loreen Spyby,15,1,333,3,43
+PaperbackBook,Angels with Dirty Faces,Crime|Drama,Estevan Dane,9,5,528,8,26
+PaperbackBook,Salvador,Drama|Thriller|War,Ferdinande Reiach,48,3,719,7,85
+PaperbackBook,Cold Prey (Fritt Vilt),Action|Horror|Mystery|Thriller,Elaine Crayden,67,3,341,7,74
+PaperbackBook,SpongeBob SquarePants Movie  The,Adventure|Animation|Children|Comedy,Cairistiona Horney,78,1,351,9,55
+AudioBook,Ballou,Documentary|Musical,Yuri Lockey,33,5,944,3,65
+PaperbackBook,Above and Beyond,Action|Drama,Dacia Turnbull,73,3,413,8,27
+AudioBook,Supervixens,Comedy|Thriller,Georges Fishbourne,19,3,357,2,35
+PaperbackBook,Open Water 2: Adrift,Drama|Thriller,Tomas Mapples,99,3,817,3,75
+PaperbackBook,Life for Sale (Kotirauha),Drama,Hy Heaton,59,4,606,3,91
+AudioBook,Coluche  l'histoire d'un mec,Drama,Jody Fierro,93,5,587,5,86
+AudioBook,Stiff Upper Lips,Comedy,Sari Jedryka,42,3,174,2,1
+AudioBook,Good,Drama|War,Christopher Spolton,12,5,36,5,53
+PaperbackBook,Bells of Capistrano,Western,Asa Macek,58,1,823,3,45
+PaperbackBook,Freeze Me,Drama|Thriller,Lem Twohig,71,4,857,10,52
+AudioBook,Christmas in July,Comedy|Romance,Neville Horlock,85,3,919,7,90
+PaperbackBook,Western Union,Western,Maury Challener,19,5,293,6,16
+PaperbackBook,Striptease,Comedy|Crime,Gregoor Carmen,37,5,106,3,94
+AudioBook,Chipmunk Adventure  The,Adventure|Animation|Children|Comedy|Fantasy|Musical,Linea McQuirter,87,5,253,5,31
+AudioBook,P.S. I Love You,Comedy|Drama|Romance,Rivi Dows,45,1,501,5,6
+AudioBook,Nothing's All Bad,Drama,Bernice Polino,48,1,300,9,94
+AudioBook,Santa Fe,Action|Romance|Western,Vevay Giovani,98,5,586,8,43
+PaperbackBook,Accused (Anklaget),Drama,Melamie Jedrysik,20,5,557,10,58
+AudioBook,Chasers  The (Jakten),Drama|Romance|Thriller,Gilbertine Bredee,31,1,679,7,25
+PaperbackBook,Echelon Conspiracy,Action|Mystery|Thriller,Jamie Stronack,57,2,212,4,37
+PaperbackBook,Top Banana,Comedy|Musical|Romance,Nisse Pauls,60,5,765,1,95
+PaperbackBook,Until the End of the World (Bis ans Ende der Welt),Adventure|Drama|Sci-Fi,Inessa Castro,77,1,555,3,73
+AudioBook,Shape of Things to Come  The,Sci-Fi,Shaine Donkersley,20,5,249,2,27
+PaperbackBook,Final Destination 2,Horror|Thriller,Charo Hordle,59,4,121,2,53
+AudioBook,Frequencies,Mystery|Romance|Sci-Fi,Kamillah De Maine,80,1,203,6,100
+AudioBook,Tokyo Zombie (Tôkyô zonbi),Action|Comedy|Horror,Elsbeth Kears,84,1,261,6,81
+AudioBook,Sweet Charity,Comedy|Drama|Musical|Romance,Leeland Strudwick,76,3,999,4,70
+AudioBook,Kill Bill: Vol. 2,Action|Drama|Thriller,Audrey Pavlovic,44,4,85,6,43
+AudioBook,Evil Dead,Horror,Vivianna Evanson,3,4,628,8,77
+PaperbackBook,Fireflies in the Garden,Drama,Pancho Edelston,88,3,266,3,97
+PaperbackBook,Teknolust,Comedy|Drama|Romance|Sci-Fi,Tallulah Eicke,97,4,367,8,38
+PaperbackBook,White Banners,Drama,Marje Brighty,82,5,865,5,9
+PaperbackBook,White Sands,Drama|Thriller,Stephine Lanon,56,4,808,6,86
+AudioBook,What's Up  Scarlet?,Comedy|Romance,Barb Penn,82,5,332,5,20
+PaperbackBook,Fearless Vampire Killers  The,Comedy|Horror,Guenevere Kerfod,31,1,801,4,25
+AudioBook,Ugetsu (Ugetsu monogatari),Drama|Thriller,Cyrus Sixsmith,75,5,24,2,44
+AudioBook,Troubled Water (DeUsynlige),Drama|Thriller,Lincoln Hugett,92,3,667,4,21
+AudioBook,Jonah Hex,Action|Drama|Thriller|Western,Redford Purvess,38,4,786,10,41
+PaperbackBook,Turning Tide (En solitaire),Adventure|Drama,Alyosha Petranek,48,2,614,5,60
+PaperbackBook,Man and a Woman  A (Un homme et une femme),Drama|Romance,Pierrette Ayscough,39,5,495,6,87
+AudioBook,Such Is Life (Así es la vida...),Drama|Romance,Dani Caroli,66,3,367,5,49
+PaperbackBook,Tatort: Im Schmerz geboren,Crime,Angelle Bernaert,97,2,371,8,26
+PaperbackBook,Murder by Contract,Crime|Drama|Film-Noir|Thriller,Devina Allinson,22,3,636,4,10
+PaperbackBook,Afflicted  The,Horror|Thriller,Patrizia Matuschek,93,2,666,1,47
+AudioBook,Paranormal Activity: The Marked Ones,Horror|Thriller,Iseabal Kopje,67,5,990,4,63
+PaperbackBook,Judgement in Stone  A (Cérémonie  La),Drama,Sheridan Siaskowski,40,2,871,8,54
+AudioBook,Maya Lin: A Strong Clear Vision,Documentary,Lockwood Itzkowicz,78,3,843,1,50
+PaperbackBook,Muriel's Wedding,Comedy,Camellia Raybould,84,1,305,3,67
+AudioBook,Legalese,Crime|Drama|Romance,Isacco Ludye,81,1,830,6,38
+PaperbackBook,Zone  The (La Zona),Drama|Thriller,Candida Mouton,69,3,626,4,8
+PaperbackBook,Myra Breckinridge,Comedy,Falito Pipe,34,5,749,7,13
+AudioBook,Private School,Comedy,Kasey Bathurst,97,3,132,8,64
+PaperbackBook,Killer  The (Die xue shuang xiong),Action|Crime|Drama|Thriller,Nealy McMichell,47,1,468,6,39
+PaperbackBook,Deal  The,Drama,Kamila Listone,36,4,311,9,86
+AudioBook,Enchantment,Drama|Romance,Merrick Tregenza,26,1,849,8,30
+PaperbackBook,Countdown,Sci-Fi|Thriller,Lou Quartly,71,4,632,7,92
+AudioBook,Bollywood/Hollywood,Comedy|Drama|Musical|Romance,Oates Thrussell,77,1,647,7,71
+PaperbackBook,I Really Hate My Job,Comedy|Drama,Rodie MacAlaster,93,3,151,10,54
+AudioBook,I  Madman,Horror,Ciel Spafford,88,1,525,10,66
+PaperbackBook,Kabul Express,Action|Comedy|Drama|Thriller,Kelli Skoate,9,2,237,4,57
+AudioBook,Greatest Show on Earth  The,Drama,Barde Winkless,4,1,565,5,95
+AudioBook,Tonight You're Mine,Comedy|Drama,Guido Campo,54,5,62,10,43
+PaperbackBook,Goofy Movie  A,Animation|Children|Comedy|Romance,Sondra Ecclesall,26,5,625,1,59
+AudioBook,Villain  The (Ek Villain),Action|Romance|Thriller,Emili Howick,48,1,629,10,30
+AudioBook,Passion Flower,Drama,Brenn Nelthorpe,10,3,502,2,88
+PaperbackBook,Magnificent Ambersons  The,Drama|Romance,Talbot Cottill,84,1,974,10,83
+AudioBook,Louis Theroux: Twilight of the Porn Stars,Documentary,Barthel Doddemeede,50,1,496,7,38
+AudioBook,Silver Linings Playbook,Comedy|Drama,Konstance Worboys,55,4,111,8,22
+AudioBook,Life Itself,Documentary,Nisse Phoenix,38,1,411,3,93
+PaperbackBook,White: The Melody of the Curse,Horror,Marius Hockell,24,3,323,3,83
+AudioBook,Abominable Dr. Phibes  The,Horror|Mystery,Ree Aizikovitch,60,2,576,1,27
+AudioBook,Forty Shades of Blue,Drama,Sylvia Hancke,15,3,523,8,23
+PaperbackBook,Passing Fancy (Dekigokoro),Drama,Kandy MacKartan,60,5,810,8,39
+PaperbackBook,Executive Decision,Action|Adventure|Thriller,Tiphani Causbey,27,3,572,8,61
+AudioBook,Myn Bala: Warriors of the Steppe,Action|Adventure|Drama,Maxie Crammy,72,2,861,8,61
+PaperbackBook,When I Grow Up  I'll Be a Kangaroo (Kad porastem bicu Kengur),Comedy,Hedy Jobbins,20,2,705,6,58
+PaperbackBook,Oscar and the Lady in Pink,Drama,Griselda Grigor,28,1,939,9,30
+AudioBook,Frankenstein Meets the Wolf Man,Horror,Isa Regenhardt,10,1,801,8,64
+PaperbackBook,Daddy's Dyin'... Who's Got the Will?,Comedy,Odelia Wharin,6,4,966,4,95
+PaperbackBook,If I Were You (Se Eu Fosse Você),Comedy,Adolpho Garrity,19,2,61,7,22
+AudioBook,Bunch Of Amateurs  A,Comedy,Korie Gerrans,43,3,777,3,57
+AudioBook,Frighteners  The,Comedy|Horror|Thriller,Alejoa Summerbell,50,2,962,1,60
+AudioBook,Hum Dil De Chuke Sanam,Drama|Romance,Janette Pond-Jones,33,2,747,10,68
+PaperbackBook,In the Realm of the Senses (Ai no corrida),Drama,Gradey Cozby,16,1,177,10,30
+AudioBook,2010: Moby Dick,Action|Adventure|Thriller,Gustave Syder,57,5,765,5,86
+PaperbackBook,Once Upon a Scoundrel,Comedy,Berti Colegrove,40,5,636,4,1
+AudioBook,Bad Influence,Drama|Thriller,Kial Collough,1,3,876,8,79
+PaperbackBook,Dentist  The,Horror|Thriller,Kerrill Rains,18,2,630,10,13
+PaperbackBook,Things Behind the Sun,Drama,Ainslee Hasard,23,1,112,8,91
+PaperbackBook,Thousand Months  A (Mille mois),Drama,Gaven Tumini,88,2,624,5,37
+AudioBook,Vampir (Cuadecuc  vampir),Documentary|Horror,Tiertza Cawcutt,99,3,624,2,99
+AudioBook,Hellzapoppin',Comedy|Musical,Dennison Hamby,89,4,327,3,99
+PaperbackBook,Sisters,Horror|Thriller,Thornton Begbie,63,1,776,9,11
+PaperbackBook,Abols Upe,Drama,Gus Fitt,43,3,728,9,14
+PaperbackBook,Electile Dysfunction,Documentary,Delcina Michallat,19,1,130,7,35
+AudioBook,Judge and the Assassin  The (Juge et l'assassin  Le),Crime|Drama,Roanna Sloey,19,2,900,10,28
+AudioBook,The 39 Steps,Action|Adventure|Comedy|Crime|Drama|Thriller,Barnard Schneider,78,3,215,9,78
+AudioBook,My Crazy Life (Mi vida loca),Drama,Alane Janicki,36,4,984,1,93
+AudioBook,Muppets From Space,Children|Comedy,Rance Kinver,33,3,9,9,48
+PaperbackBook,Dracula 2000,Horror,Fran Pidgeon,36,2,439,7,90
+AudioBook,Blood Creek (a.k.a. Town Creek),Horror,Eugenia Molson,46,3,606,5,28
+PaperbackBook,Mulberry Street,Action|Horror|Thriller,Perceval Bradborne,28,4,710,10,86
+PaperbackBook,Phantom of the Woods,Drama|Horror|Thriller,Eleonore Jedraszczyk,2,1,662,1,85
+PaperbackBook,Sherlock Holmes and the Voice of Terror,Crime|Mystery|War,Inga Roll,1,5,566,10,2
+AudioBook,Two Queens and One Consort (Twee vorstinnen en een vorst),Drama,Natalee McSaul,91,1,214,10,15
+PaperbackBook,The Secret Country: The First Australians Fight Back,Documentary,Jannel Stealy,66,5,953,10,28
+AudioBook,English Vinglish,Comedy|Drama,Garland Canadine,90,2,780,7,79
+PaperbackBook,The Hanoi Hilton,Drama|War,Conn Babidge,79,3,471,6,2
+AudioBook,Mr. Bean's Holiday,Comedy,Blair Wilfling,40,4,644,2,79
+PaperbackBook,Zebrahead,Drama,Andrew Balk,86,5,425,1,27
+PaperbackBook,Girl From Nowhere  The,Drama|Romance,Elsy Pietesch,34,5,115,3,49
+AudioBook,Rachel Getting Married,Drama|Romance,Ryon Bonett,59,2,138,8,33
+PaperbackBook,I'm Gonna Explode (a.k.a. I'm Going to Explode) (Voy a explotar),Drama,Suellen Mulvihill,29,1,559,7,60
+AudioBook,Women Art Revolution,Documentary,Alisha Downage,93,4,689,10,75
+AudioBook,King Kong,Action|Adventure|Fantasy|Horror,Dorelia Saward,83,1,619,3,90
+AudioBook,Loving You,Drama|Musical,Shalom McReynold,87,1,530,6,64
+AudioBook,Going Ape!,Comedy,Marget Preshous,83,2,410,10,96
+AudioBook,Charlie Chan at the Opera,Comedy|Musical|Mystery|Thriller,Chastity Wilsey,58,1,714,1,78
+AudioBook,Beautician and the Beast  The,Comedy|Romance,Eustace Renshell,6,3,868,6,4
+PaperbackBook,Body Snatchers,Horror|Sci-Fi|Thriller,Barclay Canelas,79,3,303,6,12
+AudioBook,Situation  The,Drama,Hulda Ingleton,94,4,895,9,90
+AudioBook,Hang 'Em High,Crime|Drama|Western,Alonso Galer,16,1,865,1,21
+AudioBook,Witch Hunt,Documentary,Sibyl Bangs,87,1,906,8,18
+PaperbackBook,Blood  Sweat + Vinyl: DIY in the 21st Century,Documentary,Gene Loynton,10,4,614,3,22
+AudioBook,301  302 (301/302),Horror|Mystery|Thriller,Herbert Dudden,25,2,693,9,97
+AudioBook,Who Killed Bambi? (Qui a tué Bambi?),Drama|Thriller,Rainer Murt,15,2,103,5,35
+AudioBook,Penthouse,Comedy|Crime|Drama,Kareem Weatherdon,29,5,544,10,30
+PaperbackBook,Wild Blue Yonder  The,Sci-Fi,Cathleen Portinari,53,3,522,8,96
+PaperbackBook,Desperate Living,Comedy|Crime,Erinn Klaussen,16,2,305,10,4
+AudioBook,All the Rage (It's the Rage),Drama,Jody Longland,97,3,144,4,22
+PaperbackBook,Full Moon in Paris (Les nuits de la pleine lune),Drama|Romance,Shirlene Hutchinges,15,2,833,8,38
+PaperbackBook,Contracted,Drama|Horror|Thriller,Fairleigh Bonniface,27,1,597,3,68
+AudioBook,Drop Dead Fred,Comedy|Fantasy,Patton Gilbride,62,1,166,7,73
+AudioBook,Bugs Bunny's 3rd Movie: 1001 Rabbit Tales,Adventure|Animation|Children|Comedy,Stacia Midgley,20,4,813,1,73
+PaperbackBook,Glass Agency  The (Ajans-E Shisheh-I),Crime|Drama|Film-Noir|Thriller,Alexandros Corinton,13,2,810,4,84
+AudioBook,Far and Away,Adventure|Drama|Romance,Andrew Meggison,61,3,664,7,17
+AudioBook,Café Lumière (Kôhî jikô),Drama,Colleen L'Episcopi,10,5,63,6,34
+AudioBook,Fire-Eater (Tulennielijä),Drama,Nelli Clemetts,36,4,260,8,50
+AudioBook,Intermission,Comedy|Crime|Drama,Rudolf Kahan,87,1,997,10,41
+AudioBook,Dracula,Horror,Wandis Bridgewater,45,2,491,9,6
+AudioBook,Questioning Darwin,Documentary,Marthe Tunbridge,52,2,577,7,61
+PaperbackBook,Barabbas,Drama,Zsazsa Bee,43,5,25,9,94
+PaperbackBook,Ballad of the Sad Cafe  The,Drama,Cedric Aveling,69,4,219,3,32
+PaperbackBook,My Way Home (Így jöttem) ,Drama,Lazaro Trood,77,5,129,8,33
+PaperbackBook,Stand and Deliver,Comedy|Drama,Darb Howard,94,1,169,6,1
+PaperbackBook,Dead Awake,Fantasy|Mystery|Romance|Thriller,Zonda Cottu,20,1,613,8,95
+PaperbackBook,Waking Sleeping Beauty,Animation|Documentary,Geneva Trevers,62,4,20,10,62
+PaperbackBook,Road to Hong Kong  The,Comedy,Lionel Greenier,21,5,46,8,96
+PaperbackBook,New York  New York,Drama|Musical|Romance,Cacilie Rathke,19,4,59,7,99
+PaperbackBook,Foreign Student,Drama,Cami Eard,89,1,547,6,53
+PaperbackBook,Vampire Bat  The,Horror,Koral Guerreau,9,5,488,4,97
+AudioBook,Wallace & Gromit: The Wrong Trousers,Animation|Children|Comedy|Crime,Crin Gheraldi,13,4,354,2,7
+AudioBook,Wristcutters: A Love Story,Drama|Fantasy|Romance,Boote Meaden,5,2,145,2,62
+AudioBook,Bus Stop,Comedy,Filide Canfield,98,1,796,9,5
+AudioBook,Independents,Documentary,Stephannie Lamacraft,7,2,361,5,58
+PaperbackBook,The Adventure of Faustus Bidgood,Comedy,Milo Gallifont,95,5,81,4,21
+PaperbackBook,Jesus,Drama,Fred Woodroffe,93,4,161,6,1
+AudioBook,Great War  The (Grande guerra  La),Action|Adventure|Comedy|Drama|War,Elia Domican,91,3,198,3,23
+AudioBook,Donkey Xote,Animation,Zondra Cousens,62,4,237,2,47
+PaperbackBook,King of Thorn (King of Thorns) (Ibara no O),Adventure|Animation|Horror|Sci-Fi|Thriller,Antony Ollcott,27,3,747,1,33
+PaperbackBook,Mirror Has Two Faces  The,Comedy|Drama|Romance,Michale Beachamp,35,5,551,3,65
+AudioBook,Lammbock,Comedy,Tate Donnett,100,4,312,3,77
+AudioBook,Hansel & Gretel,Drama|Fantasy|Horror|Mystery|Thriller,Tatum Lamasna,27,5,339,3,52
+PaperbackBook,Babyfever,Comedy|Drama,Horacio Hyams,77,5,379,8,52
+PaperbackBook,Living Room of the Nation  The (Kansakunnan olohuone),Documentary,Bethanne Joskovitch,61,4,466,5,15
+AudioBook,Caroline?,(no genres listed),Doralyn Greenhill,30,3,644,9,5
+AudioBook,After School Special (a.k.a. Barely Legal),Comedy,Gordon Macconachy,78,3,692,7,64
+PaperbackBook,Happy Ending  The,Drama,Arnaldo Clifton,89,1,218,8,53
+PaperbackBook,Will It Snow For Christmas? (Y'aura-t-il de la neige à Noël?),Drama,Malena Ivan,96,3,59,2,87
+PaperbackBook,Mascara,Drama,Jo-ann Hingeley,44,5,310,8,60
+PaperbackBook,Letzte schöne Herbsttag  Der,Comedy|Drama|Romance,Vin Spragge,70,2,856,4,62
+PaperbackBook,Tender Trap  The,Comedy|Musical,Sutherlan Sibbs,89,2,479,4,56
+PaperbackBook,Bouncing Babies,Comedy,Keefe Browett,95,5,4,2,84
+PaperbackBook,Night in the Life of Jimmy Reardon  A,Comedy|Romance,Barri Leahair,57,3,158,2,53
+AudioBook,Fluffer  The,Drama|Romance,Alla Marshall,54,4,199,10,59
+AudioBook,Odds Against Tomorrow,Crime|Drama|Thriller,Brinna Willingale,88,1,118,3,97
+AudioBook,Richie Rich,Children|Comedy,Gram Mizzi,73,3,64,10,15
+PaperbackBook,Khroustaliov  My Car! (Khrustalyov  mashinu!),Comedy|Drama,Zena McKaile,51,2,634,9,32
+PaperbackBook,Moonshot,Drama,Andriana Gerssam,1,5,568,8,16
+AudioBook,Signal  The (Señal  La),Drama|Film-Noir|Mystery|Romance,Bailey Mathivon,68,5,166,7,67
+PaperbackBook,Fog of War: Eleven Lessons from the Life of Robert S. McNamara  The,Documentary|War,Herbie Blinkhorn,74,4,682,8,16
+AudioBook,Most Dangerous Game  The,Adventure|Mystery|Thriller,Cate Niemetz,5,4,412,3,52
+AudioBook,Glenn  the Flying Robot,Sci-Fi,Anjela Rennock,26,3,21,10,50
+AudioBook,Murder of Crows  A,Action|Crime|Thriller,Lynde Jullian,74,3,555,6,3
+AudioBook,Evidence ,Horror|Thriller,Josi Fraschetti,54,4,180,10,23
+AudioBook,Onion Movie  The,Comedy,Milzie Blackater,10,2,133,4,96
+PaperbackBook,52 Tuesdays,Children|Drama,Trenton Quare,74,5,958,4,30
+AudioBook,Ana and the Others (Ana y los otros),Drama,Galina Loweth,44,2,984,8,56
+AudioBook,Christmas Tale  A (Un conte de Noël),Comedy|Drama,Kass Chadburn,17,4,970,6,54
+PaperbackBook,Donkey Xote,Animation,Kaleb Patzelt,43,3,371,7,75
+PaperbackBook,Cleopatra,Drama|Romance|War,Kassandra Swanborrow,50,3,501,6,58
+AudioBook,Chori Chori Chupke Chupke,Drama|Romance,Teodoro Mapletoft,24,4,381,1,28
+PaperbackBook,Return of the Street Fighter (Satsujin ken 2),Action|Crime|Drama,Valaria Davidovsky,100,4,963,6,63
+PaperbackBook,Love Without Pity,Comedy|Romance,Joan Wraight,35,1,388,8,73
+PaperbackBook,Loved One  The,Comedy,Maryanne Pillans,7,5,519,3,67
+PaperbackBook,I Heart Monster Movies,Documentary|Horror,Eldin Hourican,82,2,578,7,41
+AudioBook,Ramen Girl  The,Comedy|Drama|Romance,Wolf Mellon,20,5,493,1,67
+AudioBook,Purely Belter,Adventure|Comedy|Drama,Rosabella Bickmore,88,2,977,8,79
+PaperbackBook,Whirlygirl,Drama|Romance,Sibelle Driver,71,3,185,1,82
+AudioBook,Before the Rains,Drama|Romance|Thriller,Bennie McAree,13,3,651,2,23
+PaperbackBook,Dogwalker  The,Drama,Padgett Bettenay,71,2,149,3,40
+AudioBook,Harvest,Drama,Glenn Koop,68,3,39,5,6
+AudioBook,Makai Tensho: Samurai Reincarnation (Makai tenshô),Action|Fantasy|Horror,Tuck Locock,38,2,271,9,2
+PaperbackBook,Afterburn,Drama,Whitney Qualtro,83,4,1,2,14
+AudioBook,Semi-Tough,Comedy,Silvana Leversha,10,3,659,1,56
+AudioBook,Last of the Mohicans  The,Action|Romance|War|Western,Joelle Varvara,41,1,726,1,45
+PaperbackBook,Black Coffee,Comedy|Romance,Massimiliano Cluley,80,5,85,7,42
+PaperbackBook,Children  The,Horror,Gunter Gregori,90,4,675,3,41
+AudioBook,Printed Rainbow,Adventure|Animation|Fantasy,Deeann Kristof,56,5,690,8,30
+AudioBook,Man Who Shot Liberty Valance  The,Crime|Drama|Western,Gnni Hymans,58,3,846,10,92
+PaperbackBook,The Last Gladiators,Documentary,Marshal Hinchon,43,3,934,8,2
+AudioBook,Bee Season,Drama,Filippo Seddon,91,1,453,1,63
+PaperbackBook,His Name Was Jason: 30 Years of Friday the 13th,Documentary|Horror,Poul Ingleston,29,4,5,4,75
+AudioBook,Foreign Intrigue,Thriller,Bren Overlow,18,5,231,5,74
+PaperbackBook,Stewart Lee: If You Prefer a Milder Comedian  Please Ask for One,Comedy,Deloria Eastcott,93,5,984,1,93
+AudioBook,Lady in Number 6: Music Saved My Life  The,Documentary|Drama,Kathye Whiffin,40,5,698,9,63
+PaperbackBook,Cambridge Spies,Drama,Pierson Ferri,62,4,892,8,67
+PaperbackBook,Gulliver's Travels,Adventure|Animation,Danita Fassum,32,3,261,5,61
+AudioBook,Ryan,Animation|Documentary|Drama|Fantasy,Yehudi Hymor,36,1,274,9,37
+PaperbackBook,Sharknado 2: The Second One,Horror|Sci-Fi|Thriller,Dallas Boichat,87,2,435,9,57
+PaperbackBook,Earth,Drama|War,Hester Pennick,43,4,932,7,89
+AudioBook,Ann Carver's Profession,Drama,Stormy Iacoboni,59,4,261,6,86
+PaperbackBook,Butterfly (La lengua de las mariposas),Drama,Wendel Nigh,13,5,995,6,64
+AudioBook,My Joy (Schastye moe),Drama,Ricky Busfield,11,4,743,8,83
+PaperbackBook,It Runs in the Family,Comedy|Drama,Gayelord Meron,90,4,859,2,11
+AudioBook,Walking Tall,Action|Crime|Drama|Thriller,Ibrahim Hanton,85,3,164,4,23
+PaperbackBook,Run All Night,Action|Crime|Drama|Mystery|Thriller,Silvie Drance,47,2,901,2,57
+PaperbackBook,Super Troopers,Comedy|Crime|Mystery,Ag Gomer,82,3,880,7,85
+PaperbackBook,Peppermint Soda (Diabolo menthe),Comedy|Drama,Fee Orton,55,1,585,5,43
+AudioBook,Living and the Dead  The,Drama|Horror|Mystery,Imojean Gertray,50,2,41,7,48
+AudioBook,Power Play,Drama|Thriller,Cosette Fulle,72,3,315,7,50
+PaperbackBook,First Name: Carmen (Prénom Carmen),Crime|Drama|Romance,Lucias Ellicombe,26,5,167,3,86
+AudioBook,Tokyo Gore Police (Tôkyô zankoku keisatsu),Action|Horror,Zonnya Congreave,9,2,123,8,17
+PaperbackBook,Eye of the Needle,Thriller,Renata Netley,4,2,873,7,39
+PaperbackBook,Away with Words (San tiao ren),(no genres listed),Kati Ing,8,4,796,5,25
+PaperbackBook,Double Trouble,Action|Comedy|Crime|Romance,Arch Sagg,31,1,920,10,7
+PaperbackBook,Ninotchka,Comedy|Romance,Darelle Dickey,88,5,520,10,33
+AudioBook,Lisbela e o Prisioneiro (Lisbela and the Prisoner),Comedy|Romance,Juan Sarre,91,4,206,3,12
+PaperbackBook,Beautiful Troublemaker  The (La belle noiseuse),Drama,Chaddie Balstone,31,1,862,5,55
+AudioBook,Balloonatic  The,Comedy,Hesther Pill,10,5,612,1,93
+AudioBook,Breath  The (Nefes: Vatan sagolsun),Action|Drama|Thriller,Artus Worssam,23,2,615,9,16
+PaperbackBook,Making the Earth Stand Still,Documentary,Gerrie Grinnov,28,2,570,10,62
+PaperbackBook,Princess of Montpensier  The (La princesse de Montpensier),Action|Drama|Romance,Salvidor Cafferky,100,5,899,3,40
+PaperbackBook,Magic Christian  The,Comedy,Phedra Abramovitch,70,1,362,1,1
+PaperbackBook,47 Ronin  The (Genroku Chûshingura),Drama,Archer Battista,31,1,405,4,64
+PaperbackBook,Gimme Shelter,Documentary,Cristen Flacknell,12,5,894,2,46
+AudioBook,Black Caesar,Crime|Drama,Lillis Bartzen,24,2,790,5,95
+AudioBook,Beyond Silence (Jenseits der Stille),Drama,Brnaby Mapother,24,2,668,10,71
+AudioBook,Destiny in Space,Documentary|IMAX,Toiboid Liptrod,91,4,42,5,78
+AudioBook,Free the Nipple,Comedy|Drama,Harp Noyes,73,4,237,7,94
+PaperbackBook,Unknown Soldier  The (Unbekannte Soldat  Der),Documentary,Reggis Burk,14,3,843,9,90
+AudioBook,Traces of Red,Mystery|Thriller,Hallie McCard,45,1,762,1,50
+PaperbackBook,Fear and Loathing in Las Vegas,Adventure|Comedy|Drama,Arluene Rocks,16,5,478,5,31
+AudioBook,Hunger,Horror|Thriller,Chiquia Kitchenside,7,3,781,4,14
+AudioBook,Spellbound,Documentary,Bryce Nowaczyk,4,3,827,1,19
+AudioBook,Hallelujah Trail  The,Comedy|Western,Kellyann Elphee,41,1,343,2,39
+AudioBook,Chaser  The (Chugyeogja),Crime|Drama|Thriller,Bondy Dyet,80,2,874,1,7
+PaperbackBook,Aliens of the Deep,Documentary|IMAX,Cherida Mapes,89,5,743,4,3
+PaperbackBook,El tren de la memoria,Documentary,Graig Greated,29,2,181,5,36
+PaperbackBook,Southbounders,Drama,Amata Edwardson,35,3,829,3,91
+AudioBook,Quiet Duel  The (Shizukanaru ketto),Drama,Gertruda Rozsa,7,2,661,6,89
+PaperbackBook,Tampopo,Comedy,Emilie Karpenko,43,4,322,10,35
+AudioBook,Love Serenade,Comedy,Nert Broz,77,5,16,3,30
+AudioBook,Special Correspondents (Envoyés très spéciaux),Comedy,Ashlin Branche,85,4,443,1,99
+PaperbackBook,Thomas Jefferson,Documentary,Ezekiel Hovey,51,4,19,1,73
